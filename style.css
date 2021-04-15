@@ -9,6 +9,7 @@
   height: 100vh;
   background: #303030;
   overflow: hidden;
+  font-family: 'Raleway', sans-serif;
 }
 
 #rbRect {
@@ -40,25 +41,32 @@
 }
 
 #heading {
-  font-size: 72px;
+  font-family: 'Libre Baskerville', serif;
+
+  font-size: 60px;
   line-height: 84px;
   color: #cccccc;
 }
-
-#copyright {
-  width: 139px;
-  height: 23px;
-
-  font-size: 18px;
+#createdWith {
+  font-size: 14px;
   line-height: 21px;
-
   color: #dddddd;
   margin-bottom: 4%;
+}
+#copyright {
+  position: absolute;
+  left: 93%;
+  bottom: 1px;
+  color: #121212;
+  margin-bottom: 2%;
 }
 #form {
   width: 350px;
 }
 input {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+
   margin: 10px 0 10px 0;
   border: 0;
   width: 350px;
@@ -74,6 +82,9 @@ input:focus {
 }
 
 button {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+
   border-radius: 3px;
   padding: 10px 15px;
   width: 100px;

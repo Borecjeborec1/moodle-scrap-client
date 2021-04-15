@@ -4,6 +4,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Raleway:ital,wght@0,400;0,500;0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
     <link href="./assets/logo5.png" rel="icon" type="image/gif" />
     <title>Moodle Scraper</title>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
@@ -16,7 +21,8 @@
       <div id="ltRect"></div>
       <div id="content">
         <h1 id="heading">Moodle Scraper</h1>
-        <p id="copyright">©borecjeborec1</p>
+        <p id="createdWith">Created with: Nightmare.js, Electron.js, Moodle 2020</p>
+
         <form id="form" action="#">
           <p id="iconSubText">Biologie, Fyzika, Chemie</p>
 
@@ -29,7 +35,7 @@
           <button id="scrapBtn" type="submit">Scrap</button>
         </form>
 
-        <p id="resMsg" class="displayNone">Wait a while, we are collecting all data for you.</p>
+        <p id="resMsg" class="displayNone"></p>
         <svg
           id="svg"
           class="tea displayNone"
@@ -67,6 +73,7 @@
           ></path>
         </svg>
         <a id="downloadBtn" class="displayNone"> <button>Download</button></a>
+        <p id="copyright">©borecjeborec1</p>
       </div>
     </div>
   </body>
