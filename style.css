@@ -115,6 +115,7 @@ button:active {
 #downloadBtn {
   margin-top: 20px;
   cursor: pointer;
+  font-weight: normal;
 }
 #openBtn {
   margin-top: 20px;

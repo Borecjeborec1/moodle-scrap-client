@@ -81,7 +81,7 @@ form.addEventListener('submit', (e) => {
         downloadBtn.style.display = 'block';
         subForm.value = '';
         topForm.value = '';
-      }, 4322);
+      }, 5322);
     } else {
       svg.style.display = 'block';
       resMsg.style.display = 'block';
