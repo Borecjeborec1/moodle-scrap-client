@@ -24,7 +24,7 @@ form.addEventListener('submit', (e) => {
 });
 
 async function postNotes(predmet, tema) {
-  await fetch('http://localhost:3000/api/create', {
+  await fetch('https://moodle-scraper.herokuapp.com/api/create', {
     method: 'POST',
     body: JSON.stringify({ subject: predmet, topic: tema }),
     headers: {
