@@ -104,6 +104,10 @@ button:active {
   margin-top: 20px;
   cursor: pointer;
 }
+#openBtn {
+  margin-top: 20px;
+  cursor: pointer;
+}
 .displayNone {
   display: none;
 }
