@@ -1,0 +1,30 @@
+Graf vyjadřující tlak plynu stálé hmotnosti jako funkci jeho objemu při konstantní teplotě se nazývá:a. izobarab. izochorac. adiabatad. izoterma 
+Graf znázorňující v p, V diagramu závislost tlaku na objemu při konstantním objemu se nazývá:a. izobarab. izochora c. izotermad. adiabata
+Graf vyjadřující tlak plynu stálé hmotnosti jako funkci jeho objemu při konstantním tlaku se nazývá:a. izochorab. adiabatac. izotermad. izobara 
+Graf vyjadřující tlak plynu stálé hmotnosti jako funkci jeho objemu při ději, u kterého neprobíhá tepelná výměna mezi plynem a okolím, se nazývá:a. izochorab. adiabata c. izotermad. izobara
+Děj, při němž je tlak plynu stálý, se nazývá:a. izobarický b. izochorickýc. adiabatickýd. izotermický
+Při izobarickém ději s ideálním plynem stálé hmotnosti je objem plynu přímo úměrný jeho termodynamické teplotě. Toto je zákon:a. Poissonůvb. Gay-Lussacův c. Boylův-Mariottůvd. Charlesův
+Při izochorickém ději s ideálním plynem stálé hmotnosti je tlak plynu přímo úměrný jeho termodynamické teplotě. Toto je zákon:a. Gay-Lussacůvb. Boylův-Mariottůvc. Poissonůvd. Charlesův 
+Děj, při němž je objem plynu stálý, se nazývá:a. izotermickýb. izobarickýc. adiabatickýd. izochorický 
+Při izotermickém ději s ideálním plynem stálé hmotnosti je součin tlaku a objemu stálý. Toto je zákon:a. Gay-Lussacůvb. Boylův-Mariottův c. Charlesůvd. Poissonův
+Děj, při němž je teplota plynu stálá, se nazývá:a. izotermický b. izochorickýc. adiabatickýd. izobarický
+Mezi zakladatele kosmonautiky patří ruský středoškolský profesor matematiky a fyziky:a. I. V. Kosmolenkob. J. A. Gagarinc. L. N. Tolstojd. K. E. Ciolkovskij 
+Kruhový (cyklický) děj je děj, při němž je konečný stav soustavy:a. jiný než počáteční stavb. totožný s počátečním stavem 
+Vznětový motor na naftu vynalezl:a. N. A. Ottob. A. Vznětc. R. Diesel d. J. Lenoir
+U parního motoru je pracovní látkou:a. benzínb. ropac. vodní pára d. uhlí
+Poissonova konstanta je:a. větší než 1 b. menší než 1c. rovna 1
+Pro adiabatický děj s ideálním plynem platí zákon:a. Charlesůvb. Gay-Lussacůvc. Poissonův d. Boylův-Mariottův
+20. července 1969 vstoupil jako první člověk na Měsíc:a. Jurij Gagarin z kosmické lodi Vostok 1b. Edwin Aldrin z Apolla 11c. Vladimír Remek z kosmické lodi Sojuz 28d. Neil Armstrong z Apolla 11 
+12. dubna 1961 se v kosmické lodi Vostok 1 jako první člověk vydal do vesmíru:a. sovětský kosmonaut Alexej Leonovb. americký kosmonaut Neil Armstrongc. sovětský kosmonaut Jurij Gagarin d. americký kosmonaut John Glenn
+První ženou ve vesmíru byla 16. června 1963:a. Ji So-jeonb. Tracy Ellen Caldwellovác. Valentina Těreškovová d. Sandra Bullock
+Práce vykonaná plynem při izobarickém ději:a. je rovna součinu teploty a přírůstku jeho objemub. je rovna součinu objemu a přírůstku jeho teplotyc. je rovna součinu tlaku a přírůstku jeho objemu d. je rovna součinu tlaku a přírůstku jeho teploty
+Práci vykonanou plynem při stálém a proměnném tlaku vypočteme podle vzorce:a. p·ΔV b. p/ΔVc. p·ΔTd. ΔV/p
+Při izotermickém ději se tlak plynu dvakrát zvětšil. Objem plynu se:a. nezměnilb. dvakrát zmenšil c. čtyřikrát zvětšild. dvakrát zvětšil
+Při izochorickém ději se tlak plynu třikrát zvětšil. Termodynamická teplota se:a. třikrát zmenšilab. nezměnilac. devětkrát zvětšilad. třikrát zvětšila 
+Při izobarickém ději se objem plynu čyřikrát zmenšil. Termodynamická teplota se:a. šestnáctkrát zmenšilab. nezměnilac. čtyřikrát zmenšila d. čtyřikrát zvětšila
+Při izobarickém ději je tlak plynu p = 200 Pa a přírůstek objemu ΔV = 4 m3. Práce, kterou vykonal plyn, je:a. 196 Jb. 204 Jc. 800 J d. 50 J
+Ideální plyn zvětšil při stálem tlaku 4 MPa svůj objem o 0,5 m3 a přijal při tom teplo 5 MJ. Změna jeho vnitřní energie je:a. 2 MJb. 10 MJc. 7 MJd. 3 MJ 
+U spalovacích motorů je pracovní látkou:a. plyn vznikající hořením paliva uvnitř motoru b. vodní párac. palivo uvnitř motorud. uhlí
+Tepelné motory jsou stroje, které přeměňují část vnitřní energie plaiva uvolněné hořením na energii:a. jadernoub. elektrickouc. mechanickou d. magnetickou
+Vývěva je zařízení, které se používá:a. ke zvyšování tlaku v uzavřené nádoběb. ke snižování tlaku v uzavřené nádobě 
+Dne 2. 3. 1978 odstartoval na oběžnou trajektorii kolem Země první československý kosmonaut:a. Nikolaj Rukavišnikovb. Oldřich Pelčákc. Vladimír Remek d. Alexej Gubarev

@@ -1,0 +1,30 @@
+Urči následující veličiny tohoto kmitavého pohybu: Velikost úhlové frekvence je:Odpověď 1  Velikost frekvence je:Odpověď 2  Velikost počáteční fáze ve stupních je:Odpověď 3   Velikost amplitudu je:  Odpověď 4  Velikost periody je:Odpověď 5 
+Rovnice okamžité výchylky harmonického kmitání je dána vztahem {y} = 0,2sin p/2{t}. Určete:Velikost periody Odpověď 1 Velikost počáteční fázeOdpověď 2 Velikost amplitudyOdpověď 3 Velikost frekvenceOdpověď 4 
+Těleso vykoná 1200 kmitů za 2 minuty. Určete:velikost úhlové frekvenceOdpověď 1 velikost periodyOdpověď 2 velikost frekvenceOdpověď 3 
+Z obrázku urči:Velikost frekvenceOdpověď 1 Velikost periodyOdpověď 2 velikost amplitudyOdpověď 3 
+Které pohyby mají stejnou amplitudu?Odpověď 1 Které pohyby mají stejnou úhlovou frekvenci?Odpověď 2 Které pohyby mají stejnou periodu?Odpověď 3 
+Podle kterého fyzika je nazvána jednotka frekvence?a. Ohmb. Newtonc. Hertz d. Coulomb
+Které veličiny charakterizující harmonický pohyb se při pohybu mění?Vyberte jednu nebo více možností:a. okamžitá výchylka b. rychlost c. frekvenced. amplituda výchylkye. fáze f. zrychlení g. perioda
+Které veličiny charakterizující harmonický pohyb jsou při pohybu konstantní?Vyberte jednu nebo více možností:a. zrychleníb. rychlostc. fázed. frekvence e. amplituda f. okanžitá výchylkag. perioda h. úhlová frekvence 
+Co znázorňuje na obrázku písmeno A? a. vektor, který svírá s osou x nulový úhelb. fázor, jehož velikost se rovná amplitudě dané fyzikální veličiny a s osou x svírá úhel, který se rovná počáteční fázi c. pouze velikost amplitudyd. pouze úhele. libovolný skalár, který svírá s osou x úhel, který se rovná počáteční fázi
+Je dána rovnice kmitavého pohybu: y=5 sin(2/5πt - π/6).Určete velikost výchylky v počátečním okamžiku.a. 4,35b. 2,5c. -2,5 d. 5
+Rychlost kmitavého pohybu je maximální:a. v rovnovážné poloze b. mimo rovnovážnou polohuc. v krajní poloze
+Zrychlení kmitavého pohybu je nulové:a. v rovnovážné poloze b. mimo rovnovážnou polohuc. v krajní poloze
+Je dána rovnice harmonického pohybu: y = 2 × 10–3 sin 100p{t}. Urči amplitudu rychlosti tohoto pohybu.a. 6,28 m/sb. 314 m/sc. 0.314 m/sd. 0,628 m/s 
+Je dána rovnice kmitavého pohybu: y =  10 sin ptUrči velikost amplitudy zrychlení tohoto pohybu.a. 98,6 b. 3,14c. 0,986d. 31,4
+Komorní „a“ má frekvenci 440 Hz. Určete periodu tohoto kmitání.a. 2,3 ms b. 23 msc. 0,23 s
+Těleso vykoná 7200 kmitů za hodinu. Urči periodu tohoto pohybu.a. 2 hb. 2 sc. 0,5 s d. 0,5 h
+Jsou dány dva harmonické pohyby, které mají fázový posuv roven π.Pak říkáme, že tyto pohyby:a. mají opačnou fázi b. mají souhlasnou fázic. jsou neharmonické
+Skládáním dvou pohybů blízkých frekvencí vznikají:a. rázy b. interferenční maximac. interferenční minima
+Čím se liší jednotlivé pohyby znázorněné na obrázcích?a. úhlovou frekvencíb. amplitudouc. periodoud. počáteční fází 
+Který pohyb má frekvenci 0,5 Hz?Vyberte jednu nebo více možností:a. druhý b. prvníc. všechny pohybyd. třetí 
+Perioda vyjadřuje počet kmitů za sekundu.PravdaNepravda 
+Frekvence vyjadřuje počet kmitů za sekundu.Pravda Nepravda
+Perioda je doba jednoho kmitu.Pravda Nepravda
+Vektor zrychlení má u kmitavého pohybu opačný směr k vektoru rychlosti.Pravda Nepravda
+Z hlediska rychlosti řadíme kmitavý pohyb mezi nerovnoměrné pohyby.Pravda Nepravda
+Rovnice tohoto pohybu je: y=0,04 sin(10πt+π/2)Pravda Nepravda
+Při skládání kmitavých pohybů se souhlasnou fází vzniká interferenční minimumPravdaNepravda 
+Na obrázku je znázorněn harmonický pohybPravdaNepravda 
+Na obrázku je znázorněn periodický pohybPravda Nepravda
+Tento pohyb má nulovou počáteční fázi.PravdaNepravda 

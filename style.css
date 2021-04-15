@@ -83,6 +83,7 @@ button {
   color: #000000;
   outline: inherit;
   transition: all 0.2s ease;
+  cursor: pointer;
 }
 button:active {
   background: #dddddd;
@@ -110,6 +111,32 @@ button:active {
 }
 .displayNone {
   display: none;
+}
+
+i {
+  position: absolute;
+  margin-left: 3px;
+  margin-top: 8px;
+  cursor: pointer;
+  color: #c4c4c4;
+}
+#iconSubText {
+  position: absolute;
+  margin-top: -10px;
+  margin-left: 275px;
+  color: #aaaaaa;
+  opacity: 0;
+
+  transition: all 1s ease;
+}
+#iconTopText {
+  position: absolute;
+  margin-top: -50px;
+  margin-left: 400px;
+  width: 150px;
+  color: #aaaaaa;
+  opacity: 0;
+  transition: all 1s ease;
 }
 
 svg.tea {

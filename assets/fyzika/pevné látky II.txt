@@ -1,0 +1,30 @@
+Přiřaď správnou jednotku:normálové napětíOdpověď 1 relativní prodlouženíOdpověď 2 prodlouženíOdpověď 3 
+Přiřaď k jednotlivým mezím správné body:mez pevnostiOdpověď 1 mez úměrnostiOdpověď 2 mez pružnostiOdpověď 3 
+Normálové napětí v tyči o průřezu 1 cm2 , ne kterou působí tahem síla o velikosti 2 kN je:a. 2 MPab. 20 MPa c. 200 MPa
+Normálové napětí je definováno jako:a. F/S b. F/rc. S/Fd. F.S
+Prodloužení tyče Δl je přímoúměrné:Vyberte jednu nebo více možností:a. počáteční délce b. průměru tyčec. průřezu tyčed. působící síle 
+Relativní prodloužení lze určit ze vztahu:a. σ/E σb. E/σc. E.σ
+Jak velká síla způsobí prodloužení ocelové tyče o průřezu 2 cm2 o 0,1 % původní délky? Modul pružnosti v tahu je 0,2 TPaa. 30 kNb. 40 kN c. 20 kNd. 50 kN
+Vyberte nesprávné tvrzení:Vyberte jednu nebo více možností:a. Součinitel teplotní délkové roztažnosti se při malých teplotních rozdílech nemění a můžeme jej považovat za konstantníb. Součinitel teplotní délkové roztažnosti se značně mění s teplotou c. Součinitel teplotní délkové roztažnosti závisí především na teplotě d. Součinitel teplotní délkové roztažnosti závisí jen na druhu látky 
+Vztah mezi součinitelem délkové roztažnosti α a objemové roztažnosti β lze vyjádřit:a. α = βb. β = 3α c. α = 3β
+Jaký teplotní rozdíl (zaokrouhleno na celé číslo) odpovídá relativnímu prodloužení hliníkového drátu (αAl = 2,4.10-5 K-1 ) o 0,1%?a. 42 K b. 206 Kc. 20Kd. 87 K
+Dva dráty, z hliníku a mědi, mají při 200C délku 100 m. Jaký bude rozdíl jejich délek při -200C? ( αAl = 2,4.10-5 K-1, βCu = 1,7.10-5 K-1 )a. 96 mmb. 164 mmc. 28 mm d. 68 mm
+V bimetalickém teploměru se využívá:a. rozdílu mezi hodnotami součinitele délkové roztažnosti dvou kovů b. rozdílu mezi hodnotami měrného elektrického odporuc. elektromotorického napětí
+Na ocelovém laně příčného řezu 2 cm2 je zavěšené břemeno o hmotnosti 4000 kg. Jaké je relativní prodloužení lana? (Eocel = 220 GPa)a. 0,09% b. 0,9%c. 0,009%
+Urči práci, kterou je treba vykonat, aby sa ocelová tyč (E = 220 GPa) délky 1m, průřezu 1 cm2 prodloužila při pružné deformaci v tahu o 1 mm.a. 220 Jb. 22J c. 22 kJ
+Na obrázku je křivka deformace. Hookův zákon platí do bodu:a. Cb. Ec. Bd. A e. D
+ Na obrázku je znázorněn bimetalový pásek. Urči který kov (modrý nebo červený) má větší teplotní součinitel délkové roztažnostia. červenýb. modrý c. nelze určit
+Hookův zákon popisuje:a. plastickou deformacib. pružnou deformaci c. teplotní roztažnost
+Gumové vlákno délky l a průřezu S se působením síly F prodloužilo o 8 cm. O kolik se stejnou silou prodlouí vlákno z téhož materiálu o délce l a průřezu 2S?a. 16 cmb. 8 cmc. 4 cm d. 2 cm
+Které vztahy platí pro pružnou deformaci?Vyberte jednu nebo více možností:a. σ= E.ε εb. Δl = E.S/F.lc. Δl = F.l/E.S Δd. σ= E/ε
+S rostoucí teplotou roste:Vyberte jednu nebo více možností:a. hustota tělesab. délka tělesa c. objem tělesa 
+Hustota pevných látek s rostoucí teplotoua. klesá b. nemění sec. roste
+O kolik musíme zvýšit teplotu ocelového drátu ( alfa=11,5.10-6K-1) dlouhého 2 m, aby se prodloužil o 0,6 mm:a. 50Kb. 25K c. 500Kd. 250K
+Normálové napětí v ocelovém drátu o průřezu 2 mm2 napínaném silou 1 kN je:a. 500kPab. 200MPac. 200kPad. 500MPa 
+Hookův zákon platí pouze u pružné deformace a to do meze:a. úměrnosti :)b. pevnostic. pružnosti
+Jednotkou modulu pružnosti je:a. N.mb. Nc. Pa d. kg
+Jednotkou součinitele délkové roztažnosti je:a. Kb. nemá jednotkuc. 1/K 
+Při deformaci pevného tělesa se nemění tvar.PravdaNepravda 
+Pro tepllotní délkovou roztažnost pevných látek platí vztah:l = l0 + αΔtPravdaNepravda 
+Pro teplotní objemovou roztažnost pevných látek platí vztah:V = V0(1+βΔt)Pravda Nepravda
+Hookův zákon platí pro deformaciPravdaNepravda 

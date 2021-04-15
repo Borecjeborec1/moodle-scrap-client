@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="./assets/logo5.png" rel="icon" type="image/gif" />
     <title>Moodle Scraper</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
     <link rel="stylesheet" href="style.css" />
     <script defer src="script.js"></script>
   </head>
@@ -17,9 +18,14 @@
         <h1 id="heading">Moodle Scraper</h1>
         <p id="copyright">©borecjeborec1</p>
         <form id="form" action="#">
+          <p id="iconSubText">Biologie, Fyzika, Chemie</p>
+
           <input type="text" id="input1" placeholder="Předmět" />
+          <i class="material-icons" id="icon1">info_outline</i>
           <br />
+          <p id="iconTopText"></p>
           <input type="text" id="input2" placeholder="Téma" />
+          <i class="material-icons" id="icon2">info_outline</i>
           <button id="scrapBtn" type="submit">Scrap</button>
         </form>
 
@@ -60,8 +66,7 @@
             stroke-linejoin="round"
           ></path>
         </svg>
-        <a download="./assets/reseni.txt"> <button id="downloadBtn" class="displayNone">Download</button></a>
-        <a href="./assets/reseni.txt" target="_blank"> <button id="openBtn" class="displayNone">Open</button></a>
+        <a id="downloadBtn" class="displayNone"> <button>Download</button></a>
       </div>
     </div>
   </body>

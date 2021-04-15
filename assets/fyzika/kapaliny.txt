@@ -1,0 +1,30 @@
+Přiřaď správnou odpověďJak se změní výška výstupu, bude-li mít kapilára 2x menší poloměr?Odpověď 1 Jak se změní výška výstupu, bude-li experiment probíhat na povrchu Měsíce?Odpověď 2 Jak se změní výška výstupu, bude-li mít kapalina 2x větší hustotu?Odpověď 3 
+Proč zaujímá kapalina v beztížném stavu kulový tvar?Odpověď 1 Proč zaujímá kapalina v tíhovém poli vodorovný povrch?Odpověď 2 
+Urči správnou odpověď:Povrchové napětí vody lze snížit	Odpověď 1 Povrchové napětí vody se nezmění	Odpověď 2 Povrchové napětí vody lze zvýšit	Odpověď 3 
+Přiřaď správnou odpověď:bublina ve vodě má	Odpověď 1 bublina ve vzduchu má	Odpověď 2 Kapka ve vzduchu má	Odpověď 3 
+Uveďte jednotkyTlak	Odpověď 1 Povrchové napětí	Odpověď 2 Povrchová síla	Odpověď 3 
+Výška výstupu v kapiláře závisí přímoúměrně :Vyberte jednu nebo více možností:a. Na povrchovém napětí b. Na tíhovém zrychleníc. Na hustotě kapalinyd. Na poloměru křivosti povrchové vrstvy
+Na kterých veličinách závisí výška výstupu kapaliny v kapiláře?Vyberte jednu nebo více možností:a. na hmotnosti kapalinyb. na tíhovém zrychlení c. na druhu kapaliny d. na objemu kapaliny v nádoběe. na poloměru kapiláry 
+ Pod vypuklým povrchem má kapalina:a. větší tlak, než pod vodorovným b. menší tlak, než pod vodorovnýmc. tlak stejný jako pod vodorovným povrchem
+ Příčinou kapilárních jevů (elevace a deprese) je:a. atmosférický tlakb. kapilární tlak c. hydrostatický tlak
+Povrchové napětí vody lze snížit:Vyberte jednu nebo více možností:a. snížením objemu vodyb. přidáním mýdlových vloček c. ochlazením vodyd. zvětšením objemu vodye. zvýšením teploty kapaliny 
+Jak vysoko vystoupí voda v kapiláře o poloměru 0,73 mm? Povrchové napětí vody je 73 mN/m, hustota je 1000 kg/m3.a. 0,002mb. 0,05mc. 0,02 m d. 0,01me. 0,005m
+Kapilární tlak u bublin je:Vyberte jednu nebo více možností:a. nepřímoúměrný povrchovému napětí kapalinyb. přímoúměrný poloměru bublinyc. přímoúměrný povrchovému napětí kapaliny d. nepřímoúměrný poloměru bubliny 
+Přidáme-li do vody saponát, tak sea. zvýší povrchové sílyb. sníží povrchové síly c. povrchové síly nezmění
+Přidáme-li do vody cukr, tak sea. povrchové síly zvýší b. povrchové síly nezměníc. povrchové síly sníží
+Příčinou toho, že se vodoměrka může pohybovat po vodní hladině je:a. povrchové napětí b. to, že hustota vodoměrky je menší, než hustota vodyc. to, že hustota vodoměrky je větší, než hustota vody
+Jaký bude výsledný tlak v bublině, která je v hloubce h pod vodou?a. je dán součtem kapilárního a hydrostatického tlakub. je dán pouze kapilárním tlakemc. je dán součtem kapilárního, hydrostatického a atmosférického tlaku d. je dán součtem kapilárního a atmosférického tlaku
+Kapilární tlak uvnitř kapky závisí přímoúměrně na:a. Na tíhovém zrychleníb. Povrchovém napětí c. Poloměru kapky
+Povrchové napětí závisí na:Vyberte jednu nebo více možností:a. Délce okraje povrchové vrstvyb. Na druhu kapaliny c. Na prostředí nad povrchem kapaliny d. Na teplotě kapaliny e. Velikosti povrchových sil
+Rtuť ve skle má povrch kapalinya. vodorovnýb. dutýc. vypuklý 
+Kapka má kapilární tlak 2x větší než bublina o stejném poloměru.PravdaNepravda 
+Příčinou toho, že povrch kapaliny udrží lehké kovové předměty je povrchové napětí.Pravda Nepravda
+Pod dutým povrchem je tlak menší než pod vypuklým povrchem kapaliny.Pravda Nepravda
+Na obrázku je voda ve skle.PravdaNepravda 
+Voda má větší hustotu při 40C, než při 10C.Pravda Nepravda
+Bublina má dvakrát menší kapilární tlak než kapka.PravdaNepravda 
+Toto platí pro smáčivé kapalinyPravda Nepravda
+Dešťová voda má větší povrchové napětí než destilovaná voda.Pravda Nepravda
+Pokud výslednice sil směřuje do kapaliny, jde o smáčivé kapaliny.PravdaNepravda 
+Saponáty zvyšují povrchové napětí vody.PravdaNepravda 
+Voda od 0 0C do 3,98 0C svůj objem zmenšuje.Pravda Nepravda
