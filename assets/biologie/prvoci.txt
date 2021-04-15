@@ -1,30 +1,31 @@
-Mezi organely opory a ochrany prvoků nepatří:A. brvy B. pelikulaC. schránkyD. cysty
-Napište název kmene, pro jehož zástupce je typická tvorba panožek.Odpověď: 
-Co je zásobní látkou obrněnek.Odpověď: 
-Jak se označuje světločivná skvrna krásnooček.Odpověď: 
-Který z těchto prvoků nemá schránku?A. měňavka velká B. rozlitka hruškovitáC. štítovka obecnáD. slunivka obecná
-Přenašečem trypanosomy spavičné je:A. komár r. AnophelesB. blechaC. moucha tse - tse D. kočka domácí
-Mezi nálevníky nepatří:A. mrskavka modráB. slávinka obecnáC. trepka velkáD. panoženka měňavková 
-Mezi zástupce bičíkovců nepatří:A. kokcidie jaterní B. bičenka poševníC. trubénka HaeckelovaD. lamblie střevní
-Kteří z těchto prvoků mají horninotvorný význam?A. mřížovci B. výtrusovciC. měňavkyD. bičíkovci
-Uveďte název kmene, jehož zástupci jsou stejně jako krásnoočka mixotrofní.Odpověď: 
-Které onemocnění způsobené zástupcem výtrusovců se projevuje vysokými horečkami a následnými zimnicemi, jež se po určité době opakují.Odpověď: 
-Ektoplazma prvoků je:A. vnější a řidšíB. vnitřní a řidšíC. vnitřní a homogenníD. vnější a homogenní 
-Mezi nepohlavní způsoby rozmnožování nepatří:A. konjugace B. děleníC. pučeníD. schizogonie
-Prvoci jsou eukaryotické organismy s jednobuněčným tělem.Pravda Nepravda
-Zařaďte tyto organely do správné skupiny:stigmaOdpověď 1 pulzující vakuolaOdpověď 2 panožkyOdpověď 3 buněčná ústaOdpověď 4 
-Uveďte celý název prvoka, který způsobuje hnisavé záněty žlučovodů králíků a zajíců.Odpověď: 
-Pro prvoky je běžnější pohlavní rozmnožování.PravdaNepravda 
-Která organela slouží nálevníkům k pohybu?Odpověď: 
-Uveďte název kmene, jehož zástupci vytvářejí mnohojaderné plasmodium.Odpověď: 
-Uveďte název kmene, jehož zástupci způsobují nádory na kořenech brukvovitých rostlin.Odpověď: 
-Přiřaďte k onemocnění jeho původce.kokcidiózaOdpověď 1 trichomoniázaOdpověď 2 spavá nemocOdpověď 3 malárieOdpověď 4 
-Který z uvedených prvoků je nebezpečný pro těhotné ženy a vyvíjející se plod?A. lamblie střevníB. měňavka střevníC. kokcidie jaterníD. Toxoplasma gondii 
-Krásnoočka obsahují chloroplasty a živí se mixotrofně.Pravda Nepravda
-Uveďte název kmene, jehož všichni zástupci jsou osmotrofní endoparazité.Odpověď: 
-Uveďte celý název prvoka z kmene bičíkovci, který žije volně (neparazituje).Odpověď: 
-Makronukleus trepky velké má rozmnožovací funkci.PravdaNepravda 
-Nálevníci jsou prvoci s nejsložitější tělesnou stavbou.Pravda Nepravda
-Krytenky jsou sladkovodní prvoci s chitinovými schránkami.Pravda Nepravda
-Zařaďte uvedené prvoky do kmene.chobotěnka husíOdpověď 1 měňavka úplavičnáOdpověď 2 kokcidie jaterníOdpověď 3 trypanosoma spavičnáOdpověď 4 
-Napište celý název prvoka, který je původcem trichomoniázy.Odpověď: 
+0.  Mezi organely opory a ochrany prvoků nepatří: A. brvy B. pelikulaC. schránkyD. cysty odpověď je: brvy.  .
+1.  Napište název kmene, pro jehož zástupce je typická tvorba panožek.Odpověď:  odpověď je: kořenonožci.  .
+2.  Co je zásobní látkou obrněnek.Odpověď:  odpověď je: škrob.  .
+3.  Jak se označuje světločivná skvrna krásnooček.Odpověď:  odpověď je: stigma.  .
+4.  Který z těchto prvoků nemá schránku? A. měňavka velká B. rozlitka hruškovitáC. štítovka obecnáD. slunivka obecná odpověď je: měňavka velká.  .   0,80/1,00.
+5.  Přenašečem trypanosomy spavičné je: A. komár r. AnophelesB. blechaC. moucha tse - tse D. kočka domácí odpověď je: moucha tse - tse.  .
+6.  Mezi nálevníky nepatří: A. mrskavka modráB. slávinka obecnáC. trepka velkáD. panoženka měňavková  odpověď je: panoženka měňavková.  .   0,90/1,00.
+7.  Mezi zástupce bičíkovců nepatří: A. kokcidie jaterní B. bičenka poševníC. trubénka HaeckelovaD. lamblie střevní odpověď je: kokcidie jaterní.  .
+8.  Kteří z těchto prvoků mají horninotvorný význam? A. mřížovci B. výtrusovciC. měňavkyD. bičíkovci odpověď je: mřížovci.  .   0,80/1,00.
+9.  Uveďte název kmene, jehož zástupci jsou stejně jako krásnoočka mixotrofní.Odpověď:  odpověď je: obrněnky.Nesprávně .
+10.  Které onemocnění způsobené zástupcem výtrusovců se projevuje vysokými horečkami a následnými zimnicemi, jež se po určité době opakují.Odpověď:  odpověď je: malárie.  .   0,80/1,00.
+11.  Ektoplazma prvoků je: A. vnější a řidšíB. vnitřní a řidšíC. vnitřní a homogenníD. vnější a homogenní  odpověď je: vnější a homogenní.  .
+12.  Mezi nepohlavní způsoby rozmnožování nepatří: A. konjugace B. děleníC. pučeníD. schizogonie odpověď je: konjugace.  .
+13.  Prvoci jsou eukaryotické organismy s jednobuněčným tělem. Pravda Nepravda odpověď je 'Pravda'  .
+14.  Zařaďte tyto organely do správné skupiny:stigmaOdpověď 1 pulzující vakuolaOdpověď 2 panožkyOdpověď 3 buněčná ústaOdpověď 4  odpověď je: stigma – organely smyslové, pulzující vakuola – organely vylučovací a osmoregulační, panožky – organely pohybu, buněčná ústa – organely trávicí.  .
+15.  Uveďte celý název prvoka, který způsobuje hnisavé záněty žlučovodů králíků a zajíců.Odpověď:  odpověď je: kokcidie jaterní.  .
+16.  Pro prvoky je běžnější pohlavní rozmnožování. PravdaNepravda  odpověď je 'Nepravda'  .
+17.  Která organela slouží nálevníkům k pohybu?Odpověď:  odpověď je: brvy.  .   0,90/1,00.
+18.  Uveďte název kmene, jehož zástupci vytvářejí mnohojaderné plasmodium.Odpověď:  odpověď je: hlenky.
+19.  Uveďte název kmene, jehož zástupci způsobují nádory na kořenech brukvovitých rostlin.Odpověď:  odpověď je: nádorovky.
+20.  Přiřaďte k onemocnění jeho původce.kokcidiózaOdpověď 1 trichomoniázaOdpověď 2 spavá nemocOdpověď 3 malárieOdpověď 4  odpověď je: kokcidióza – kokcidie jaterní, trichomoniáza – bičenka poševní, spavá nemoc – trypanosoma spavičná, malárie – zimnička třetidenní.  .   0,90/1,00.
+21.  Který z uvedených prvoků je nebezpečný pro těhotné ženy a vyvíjející se plod? A. lamblie střevníB. měňavka střevníC. kokcidie jaterníD. Toxoplasma gondii  odpověď je: Toxoplasma gondii.  .
+22.  Krásnoočka obsahují chloroplasty a živí se mixotrofně. Pravda Nepravda odpověď je 'Pravda'  .
+23.  Uveďte název kmene, jehož všichni zástupci jsou osmotrofní endoparazité.Odpověď:  odpověď je: výtrusovci.  .   0,90/1,00.
+24.  Uveďte celý název prvoka z kmene bičíkovci, který žije volně (neparazituje).Odpověď:  odpověď je: trubénka Haeckelova.  .
+25.  Makronukleus trepky velké má rozmnožovací funkci. PravdaNepravda  odpověď je 'Nepravda'  .
+26.  Nálevníci jsou prvoci s nejsložitější tělesnou stavbou. Pravda Nepravda odpověď je 'Pravda'  .
+27.  Krytenky jsou sladkovodní prvoci s chitinovými schránkami. Pravda Nepravda odpověď je 'Pravda'  .
+28.  Zařaďte uvedené prvoky do kmene.chobotěnka husíOdpověď 1 měňavka úplavičnáOdpověď 2 kokcidie jaterníOdpověď 3 trypanosoma spavičnáOdpověď 4  odpověď je: chobotěnka husí – nálevníci, měňavka úplavičná – kořenonožci, kokcidie jaterní – výtrusovci, trypanosoma spavičná – bičíkovci.Částečně správněBodový zisk: 0,75/1,00.
+29.  Napište celý název prvoka, který je původcem trichomoniázy.Odpověď:  odpověď je: bičenka poševní.  .
+30. 

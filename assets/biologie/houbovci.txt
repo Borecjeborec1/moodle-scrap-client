@@ -1,30 +1,31 @@
-Většina druhů hub (asi 97%) žije ve sladkých vodách.PravdaNepravda 
-Na obrázku jsou choanocyty znázorněny červeně. Jedná se o tělní typ: Odpověď: 
-Vnitřním pučením vznikají kolonie.PravdaNepravda 
-Jak označujeme vrstvu, která je na povrchu těla.Odpověď: 
-Z kterého typu buněk vznikají pohlavní buňky.Odpověď: 
-Jak označujeme jehlice, které vyztužují obaly vnitřních pupenů.Odpověď: 
-Uveďte typ buněk, z nichž vznikají vnitřní pupeny.Odpověď: 
-Jehlice, které tvoří vnitřní oporu těla nejsou z:A. sponginuB. uhličitanu vápenatéhoC. chitinu D. oxidu křemičitého
-Vnitřní pučení je typické pro sladkovodní houby.Pravda Nepravda
-Houba mycí patří mezi houby rohovité.Pravda Nepravda
-Houba pohárová je sladkovodní houba.PravdaNepravda 
-Larva hub je obrvená.Pravda Nepravda
-Archeocyty mají schopnost fagocytózy.PravdaNepravda 
-Na obrázku jsou choanocyty znázorněny červeně. Jedná se o tělní typ:  Odpověď: 
-Houbovci jsou převážně hermafrodité.Pravda Nepravda
-Límečkové buňky s bičíkem jsou:A. choanocyty B. porocytyC. archeocytyD. amoebocyty
-Houbovci se pravděpodobně vyvinuli z bičíkovců.Pravda Nepravda
-Houby vápenaté tvoří často kolonie.Pravda Nepravda
-Jak označujeme vnitřní vrstvu buněk.Odpověď: 
-Z houbovců se pravděpodobně vyvinuli žahavci.PravdaNepravda 
-Buňky v ektodermu jsou:A. archeocytyB. porocyty C. amoebocytyD. choanocyty
-Jak označujeme postranní otvory, kterými proudí voda do centrální dutiny.Odpověď: 
-Kterým typem buněk jsou vylučována vlákna ze sponginu.Odpověď: 
-Jak označujeme vnitřní pupeny.Odpověď: 
-Mezi houby vápenaté patří:A. houba pohárováB. houba pletenáC. houba mycíD. houba voštinatá 
-Kterým typem buněk jsou vylučovány jehlice z SiO2 a CaCO3.Odpověď: 
-Na obrázku jsou choanocyty znázorněny červeně. Jedná se o tělní typ: Odpověď: 
-Houbovci mohou vytvářet kolonie.Pravda Nepravda
-Dospělí houbovci jsou volně pohybliví.Pravda Nepravda
-Napište celý název bičíkovce, který se svou stavbou podobá choanocytům.Odpověď: 
+0.  Většina druhů hub (asi 97%) žije ve sladkých vodách. PravdaNepravda  odpověď je 'Nepravda'  .
+1.  Na obrázku jsou choanocyty znázorněny červeně. Jedná se o tělní typ: Odpověď: Reakce1Správná odpověď je: sykon.Nesprávně .
+2.  Vnitřním pučením vznikají kolonie. PravdaNepravda  odpověď je 'Nepravda'  .
+3.  Jak označujeme vrstvu, která je na povrchu těla.Odpověď:  odpověď je: ektoderm.  .
+4.  Z kterého typu buněk vznikají pohlavní buňky.Odpověď:  odpověď je: archeocyty.  .   0,80/1,00.
+5.  Jak označujeme jehlice, které vyztužují obaly vnitřních pupenů.Odpověď:  odpověď je: amfidisky.  .   0,00/1,00.
+6.  Uveďte typ buněk, z nichž vznikají vnitřní pupeny.Odpověď:  odpověď je: archeocyty.  .   0,70/1,00.
+7.  Jehlice, které tvoří vnitřní oporu těla nejsou z: A. sponginuB. uhličitanu vápenatéhoC. chitinu D. oxidu křemičitého odpověď je: chitinu.  .
+8.  Vnitřní pučení je typické pro sladkovodní houby. Pravda Nepravda odpověď je 'Pravda'  .
+9.  Houba mycí patří mezi houby rohovité. Pravda Nepravda odpověď je 'Pravda'  .   0,00/1,00.
+10.  Houba pohárová je sladkovodní houba. PravdaNepravda  odpověď je 'Nepravda'  .
+11.  Larva hub je obrvená. Pravda Nepravda odpověď je 'Pravda'  .   0,00/1,00.
+12.  Archeocyty mají schopnost fagocytózy. PravdaNepravda  odpověď je 'Nepravda'  .   0,00/1,00.
+13.  Na obrázku jsou choanocyty znázorněny červeně. Jedná se o tělní typ:  Odpověď: Reakce1Správná odpověď je: leukon.
+14.  Houbovci jsou převážně hermafrodité. Pravda Nepravda odpověď je 'Pravda'  .
+15.  Límečkové buňky s bičíkem jsou: A. choanocyty B. porocytyC. archeocytyD. amoebocyty odpověď je: choanocyty.  .
+16.  Houbovci se pravděpodobně vyvinuli z bičíkovců. Pravda Nepravda odpověď je 'Pravda'  .   0,00/1,00.
+17.  Houby vápenaté tvoří často kolonie. Pravda Nepravda odpověď je 'Pravda'  .
+18.  Jak označujeme vnitřní vrstvu buněk.Odpověď:  odpověď je: entoderm.  .   0,40/1,00.
+19.  Z houbovců se pravděpodobně vyvinuli žahavci. PravdaNepravda  odpověď je 'Nepravda'  .   0,00/1,00.
+20.  Buňky v ektodermu jsou: A. archeocytyB. porocyty C. amoebocytyD. choanocyty odpověď je: porocyty.  .
+21.  Jak označujeme postranní otvory, kterými proudí voda do centrální dutiny.Odpověď:  odpověď je: ostie.  .   0,80/1,00.
+22.  Kterým typem buněk jsou vylučována vlákna ze sponginu.Odpověď:  odpověď je: spongoblasty.Nesprávně .
+23.  Jak označujeme vnitřní pupeny.Odpověď:  odpověď je: gemule.  .
+24.  Mezi houby vápenaté patří: A. houba pohárováB. houba pletenáC. houba mycíD. houba voštinatá  odpověď je: houba voštinatá.  .
+25.  Kterým typem buněk jsou vylučovány jehlice z SiO2 a CaCO3.Odpověď:  odpověď je: skleroblasty.  .
+26.  Na obrázku jsou choanocyty znázorněny červeně. Jedná se o tělní typ: Odpověď: Reakce1Správná odpověď je: askon.
+27.  Houbovci mohou vytvářet kolonie. Pravda Nepravda odpověď je 'Pravda'  .
+28.  Dospělí houbovci jsou volně pohybliví. Pravda Nepravda odpověď je 'Pravda'  .   0,00/1,00.
+29.  Napište celý název bičíkovce, který se svou stavbou podobá choanocytům.Odpověď:  odpověď je: trubénka Haeckelova.Nesprávně .
+30. 

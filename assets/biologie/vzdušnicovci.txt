@@ -1,30 +1,31 @@
-Vzdušnicovci zpracovávají potravu pomocí kusadel neboli Odpověď a čelistí neboliOdpověď.
-K následujícím charakteristikám přiřaďte, zda jsou typické pro stonožky nebo mnohonožkyživí se dravěOdpověď 1 2 páry nohou na každém článkuOdpověď 2 na konci těla vlečné nožky s hmatovou funkcíOdpověď 3 nohy vkloubeny po stranách tělaOdpověď 4 válcovité, na průřezu kruhovité těloOdpověď 5 
-Tři štěty na zadečku a menší druhý pár trojúhelníkových křídel se vyskytuje uA. švába obecnéhoB. vážky ploskéC. jepice obecné D. škvora obecného
-Tzv. maska se vyskytuje u larevA. vážek B. sarančatC. jepicD. vší
-K následujícím zástupcům vzdušnicovců přiřaďte, zda patří mezi holometabola nebo hemimetabola.šídlo modréOdpověď 1 mravenec lesníOdpověď 2 světluška menšíOdpověď 3 mšice zelnáOdpověď 4 moucha domácíOdpověď 5 kudlanka nábožnáOdpověď 6 
-Taškovitě uspořádaná křídla majíA. mouchyB. motýli C. kobylkyD. komáři
-Jak se nazývají homony sloužící k dorozumívání hmyzu?Odpověď: 
-Facetové okoVyberte jednu nebo více možností:A. je oko složené B. skládá se z 600 - 1000 ommatidií C. je tzv. mozaikové oko D. je oko jednoduché
-K následujícím zástupcům přiřaďte odpovídající útvar vyskytující se na zadečku.samička kobylekOdpověď 1 přívěsné štětyOdpověď 2 vosyOdpověď 3 
-K číslům 1 - 5 přiřaďte správný název části nohy1Odpověď 1 2Odpověď 2 3Odpověď 3 4Odpověď 4 5Odpověď 5 
-K následujícím zástupcům hmyzu přiřaďte odpovídající ústní ústrojí.včelyOdpověď 1 motýliOdpověď 2 komářiOdpověď 3 
-K uvedeným názvům části těl vzdušnicovců přiřaďte jejich český ekvivalent.abdomenOdpověď 1 thoraxOdpověď 2 caput, cephalonOdpověď 3 
-Hemimetabola neboli hmyz s proměnou Odpověď se vyvíjí v následujícím pořadí: vajíčko,  Odpověď a po několikerém svlékání vzniká imago.
-Ektoparazit živící se krví savců, s redukovanými křídly a kladoucí hnidy jeA. blecha obecnáB. komár pisklavýC. veš dětská D. mol šatní
-Haltery jsouVyberte jednu nebo více možností:A. tykadélkaB. redukovaný druhý pár křídel u dvoukřídlého hmyzu C. redukovaný první pár křídel dvoukřídlého hmyzuD. kyvadélka 
-Brouci mají první pár křídel přeměněn v Odpověď.
-Společenstva rozdělená na kasty a tvorba termitišť je typická proA. všekazi B. mšiceC. chrostíkyD. blechy
-K mimetickému chování vzdušnicovců nepatříA. výstražná kresba na těleB. ochranné zbarvení tělaC. napodobování chování nebezpečných živočichůD. termoregulace 
-V důsledku parazitického způsobu života došlo ke ztrátě křídel uVyberte jednu nebo více možností:A. vší B. blech C. jepicD. vážek
-K následujícím typům končetin hmyzu přiřaďte odpovídajícího zástupce.skákacíOdpověď 1 příchytnáOdpověď 2 plovacíOdpověď 3 hrabavéOdpověď 4 
-Křídla hmyzuVyberte jednu nebo více možností:A. zasahují do nich tracheje, nervová vlákna a cévy B. neobsahují cévy ani nervyC. jsou připojena k 1. článku zadečkuD. jsou připojena ke 2. a 3. hrudnímu článku 
-Primitivní skupiny hmyzu a některé larvy mají na zadečku Odpověď.
-Krytky jsouVyberte jednu nebo více možností:A. bez žilnatiny B. z chitinuC. přeměna prvního páru křídel D. kožovité 
-Zástupce na obrázku jeA. svinuleB. mnohonožka zemníC. stonožka škvorováD. stonoha
-Vylučovací soustavu vzdušnicovců tvoříA. metanefridieB. protonefridieC. coxální žlázyD. Malpighiho trubice 
-Stadium kukly se vyskytuje u hmyzu s proměnou Odpověď.
-ChvostoskociVyberte jednu nebo více možností:A. na zadečku mají skákací aparát B. jsou půdní organismy, humusotvorní činitelé C. jsou vodní organismy, součást planktonuD. na hrudi mají skákací aparát
-StriludaceVyberte jednu nebo více možností:A. je kladení vajíčekB. je vydávání zvuků C. vyskytuje se např. u komárůD. vyskytuje se např. u kobylek 
-Doplňte následující text.Vzdušnicovci jsou 1)............. s oplozením 2) ................... a vývojem 3).........1)Odpověď 1 2)Odpověď 2 3)Odpověď 3 
-K následujícím zástupcům přiřaďte odpovídající řád.mandelinka bramborováOdpověď 1 štěnice domácíOdpověď 2 bourec morušovýOdpověď 3 včela medonosnáOdpověď 4 cvrček polníOdpověď 5 
+0.  Vzdušnicovci zpracovávají potravu pomocí kusadel neboli Odpověď a čelistí neboliOdpověď.Reakce  .
+1.  K následujícím charakteristikám přiřaďte, zda jsou typické pro stonožky nebo mnohonožkyživí se dravěOdpověď 1 2 páry nohou na každém článkuOdpověď 2 na konci těla vlečné nožky s hmatovou funkcíOdpověď 3 nohy vkloubeny po stranách tělaOdpověď 4 válcovité, na průřezu kruhovité těloOdpověď 5  odpověď je: živí se dravě – stonožky, 2 páry nohou na každém článku – mnohonožky, na konci těla vlečné nožky s hmatovou funkcí – stonožky, nohy vkloubeny po stranách těla – stonožky, válcovité, na průřezu kruhovité tělo – mnohonožky.  .
+2.  Tři štěty na zadečku a menší druhý pár trojúhelníkových křídel se vyskytuje u A. švába obecnéhoB. vážky ploskéC. jepice obecné D. škvora obecného odpověď je: jepice obecné.  .
+3.  Tzv. maska se vyskytuje u larev A. vážek B. sarančatC. jepicD. vší odpověď je: vážek.  .
+4.  K následujícím zástupcům vzdušnicovců přiřaďte, zda patří mezi holometabola nebo hemimetabola.šídlo modréOdpověď 1 mravenec lesníOdpověď 2 světluška menšíOdpověď 3 mšice zelnáOdpověď 4 moucha domácíOdpověď 5 kudlanka nábožnáOdpověď 6  odpověď je: šídlo modré – hemimetabola, mravenec lesní – holometabola, světluška menší – holometabola, mšice zelná – hemimetabola, moucha domácí – holometabola, kudlanka nábožná – hemimetabola. Bodový zisk: 6,00/6,00.
+5.  Taškovitě uspořádaná křídla mají A. mouchyB. motýli C. kobylkyD. komáři odpověď je: motýli.  .
+6.  Jak se nazývají homony sloužící k dorozumívání hmyzu?Odpověď:  odpověď je: feromony.  .
+7.  Facetové okoVyberte jednu nebo více možností:A. je oko složené B. skládá se z 600 - 1000 ommatidií C. je tzv. mozaikové oko D. je oko jednoduché odpověď je: je oko složené, je tzv. mozaikové oko, skládá se z 600 - 1000 ommatidií.  .
+8.  K následujícím zástupcům přiřaďte odpovídající útvar vyskytující se na zadečku.samička kobylekOdpověď 1 přívěsné štětyOdpověď 2 vosyOdpověď 3  odpověď je: samička kobylek – kladélko, přívěsné štěty – škvoři, vosy – žahadlo s jedovou žlázou.  .
+9.  K číslům 1 - 5 přiřaďte správný název části nohy1Odpověď 1 2Odpověď 2 3Odpověď 3 4Odpověď 4 5Odpověď 5  odpověď je: 1 – kyčel, 2 – příkyčlí, 3 – stehno, 4 – holeň, 5 – chodidlo s drápky.  .
+10.  K následujícím zástupcům hmyzu přiřaďte odpovídající ústní ústrojí.včelyOdpověď 1 motýliOdpověď 2 komářiOdpověď 3  odpověď je: včely – lízací, motýli – sací, komáři – bodavě sací.  .
+11.  K uvedeným názvům části těl vzdušnicovců přiřaďte jejich český ekvivalent.abdomenOdpověď 1 thoraxOdpověď 2 caput, cephalonOdpověď 3  odpověď je: abdomen – zadeček, thorax – hruď, caput, cephalon – hlava.  .
+12.  Hemimetabola neboli hmyz s proměnou Odpověď se vyvíjí v následujícím pořadí: vajíčko,  Odpověď a po několikerém svlékání vzniká imago.Reakce  .
+13.  Ektoparazit živící se krví savců, s redukovanými křídly a kladoucí hnidy je A. blecha obecnáB. komár pisklavýC. veš dětská D. mol šatní odpověď je: veš dětská.  .
+14.  Haltery jsouVyberte jednu nebo více možností:A. tykadélkaB. redukovaný druhý pár křídel u dvoukřídlého hmyzu C. redukovaný první pár křídel dvoukřídlého hmyzuD. kyvadélka  odpověď je: kyvadélka, redukovaný druhý pár křídel u dvoukřídlého hmyzu.  .
+15.  Brouci mají první pár křídel přeměněn v Odpověď.Reakce  .
+16.  Společenstva rozdělená na kasty a tvorba termitišť je typická pro A. všekazi B. mšiceC. chrostíkyD. blechy odpověď je: všekazi.  .
+17.  K mimetickému chování vzdušnicovců nepatří A. výstražná kresba na těleB. ochranné zbarvení tělaC. napodobování chování nebezpečných živočichůD. termoregulace  odpověď je: termoregulace.  .
+18.  V důsledku parazitického způsobu života došlo ke ztrátě křídel uVyberte jednu nebo více možností:A. vší B. blech C. jepicD. vážek odpověď je: vší, blech.  .
+19.  K následujícím typům končetin hmyzu přiřaďte odpovídajícího zástupce.skákacíOdpověď 1 příchytnáOdpověď 2 plovacíOdpověď 3 hrabavéOdpověď 4  odpověď je: skákací – saranče, příchytná – veš, plovací – vodomil, hrabavé – krtonožka.  .
+20.  Křídla hmyzuVyberte jednu nebo více možností:A. zasahují do nich tracheje, nervová vlákna a cévy B. neobsahují cévy ani nervyC. jsou připojena k 1. článku zadečkuD. jsou připojena ke 2. a 3. hrudnímu článku  odpověď je: jsou připojena ke 2. a 3. hrudnímu článku, zasahují do nich tracheje, nervová vlákna a cévy.  .
+21.  Primitivní skupiny hmyzu a některé larvy mají na zadečku Odpověď.Reakce  .
+22.  Krytky jsouVyberte jednu nebo více možností:A. bez žilnatiny B. z chitinuC. přeměna prvního páru křídel D. kožovité  odpověď je: přeměna prvního páru křídel, kožovité.Částečně správněBodový zisk: 0,50/1,00.
+23.  Zástupce na obrázku je A. svinuleB. mnohonožka zemníC. stonožka škvorováD. stonoha odpověď je: mnohonožka zemní.
+24.  Vylučovací soustavu vzdušnicovců tvoří A. metanefridieB. protonefridieC. coxální žlázyD. Malpighiho trubice  odpověď je: Malpighiho trubice.  .
+25.  Stadium kukly se vyskytuje u hmyzu s proměnou Odpověď.Reakce  .
+26.  ChvostoskociVyberte jednu nebo více možností:A. na zadečku mají skákací aparát B. jsou půdní organismy, humusotvorní činitelé C. jsou vodní organismy, součást planktonuD. na hrudi mají skákací aparát odpověď je: jsou půdní organismy, humusotvorní činitelé, na zadečku mají skákací aparát.  .
+27.  StriludaceVyberte jednu nebo více možností:A. je kladení vajíčekB. je vydávání zvuků C. vyskytuje se např. u komárůD. vyskytuje se např. u kobylek  odpověď je: je vydávání zvuků, vyskytuje se např. u kobylek.  .
+28.  Doplňte následující text.Vzdušnicovci jsou 1)............. s oplozením 2) ................... a vývojem 3).........1)Odpověď 1 2)Odpověď 2 3)Odpověď 3  odpověď je: 1) – gonochoristé, 2) – vnitřním, 3) – nepřímým.  .
+29.  K následujícím zástupcům přiřaďte odpovídající řád.mandelinka bramborováOdpověď 1 štěnice domácíOdpověď 2 bourec morušovýOdpověď 3 včela medonosnáOdpověď 4 cvrček polníOdpověď 5  odpověď je: mandelinka bramborová – brouci, štěnice domácí – ploštice, bourec morušový – motýli, včela medonosná – blanokřídlí, cvrček polní – rovnokřídlí.Částečně správněBodový zisk: 4,00/5,00.
+30. 

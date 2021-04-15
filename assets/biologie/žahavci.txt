@@ -1,30 +1,31 @@
-Mezi polypovce nepatří:A. měchýřovka vznášiváB. medúzka sladkovodníC. nezmar zelenýD. houbovník obecný 
-Jak označujeme schopnost, díky níž nezmar přežije různá poškození.Odpověď: 
-Sasanky patří mezi osmičetné korálnatce.PravdaNepravda 
-Jedinec, který slouží v kolonii trubýšů k lovu potravy je:A. gonozoidB. medúzomC. daktylozoid D. pneumatofor
-Trávicí soustavu, která plní trávicí funkci a zároveň rozvádí živiny, označujeme jako soustavu...Odpověď: 
-Který způsob nepohlavního rozmnožování je typický pro nezmara.Odpověď: 
-Mezi medúzovce patří:A. sasanka koňskáB. medúzka sladkovodníC. větevník mozkovýD. talířovka ušatá 
-Jak označujeme buňky, ze kterých vznikají žahavé buňky.Odpověď: 
-Jak označujeme typ nervové soustavy žahavců.Odpověď: 
-Jak označujeme malé medúzky, které vznikly strobilací.Odpověď: 
-Tělo žahavců je:A. bilaterálně souměrnéB. paprsčitě souměrné C. dvoustranně souměrnéD. nesouměrné
-Kosterní útvary korálnatců jsou z uhličitanu vápenatého nebo koralinu.Pravda Nepravda
-Mezi korálnatce nepatří:A. houbovník obecnýB. sasanka koňskáC. větevník mozkovýD. měchýřovka vznášivá 
-Ropália jsou:A. žahavé buňkyB. seskupení smyslových orgánů C. rozmnožovací orgányD. trávicí buňky
-Pro stádium polypa je typické pohlavní rozmnožování.PravdaNepravda 
-Pro stádium medúzy je typické pohlavní rozmnožování.Pravda Nepravda
-Silná vrstva mezogley je typická pro stádium polypa.PravdaNepravda 
-Larva žahavců je:A. efyraB. miracidiumC. planula D. amfiblastula
-Jak označujeme nepohlavní rozmnožování ve stádiu polypa u medúzovců.Odpověď: 
-Trávení, které probíhá v dutině láčky označujeme jako intracelulární.PravdaNepravda 
-Nezmaři mají stádium polypa i medúzy.PravdaNepravda 
-Jak označujeme žahavé buňky.Odpověď: 
-Korál červený patří mezi šestičetné korálnatce.PravdaNepravda 
-Sasanky tvoří kosterní útvary z koralinu.PravdaNepravda 
-Medúzom slouží v kolonii trubýšů k pohybu.Pravda Nepravda
-Jedinec sloužící k nadnášení kolonie trubýšů je...Odpověď: 
-Jak označujeme svalová vlákna žahavců.Odpověď: 
-Jak označujeme střídání pohlavního a nephlavního stádia.Odpověď: 
-Korálnatci mají stádium polypa i medúzy.PravdaNepravda 
-Jak označujeme trávicí dutinu žahavců.Odpověď: 
+0.  Mezi polypovce nepatří: A. měchýřovka vznášiváB. medúzka sladkovodníC. nezmar zelenýD. houbovník obecný  odpověď je: houbovník obecný.  .
+1.  Jak označujeme schopnost, díky níž nezmar přežije různá poškození.Odpověď:  odpověď je: regenerace.  .
+2.  Sasanky patří mezi osmičetné korálnatce. PravdaNepravda  odpověď je 'Nepravda'  .
+3.  Jedinec, který slouží v kolonii trubýšů k lovu potravy je: A. gonozoidB. medúzomC. daktylozoid D. pneumatofor odpověď je: daktylozoid.  .
+4.  Trávicí soustavu, která plní trávicí funkci a zároveň rozvádí živiny, označujeme jako soustavu...Odpověď:  odpověď je: gastrovaskulární.  .
+5.  Který způsob nepohlavního rozmnožování je typický pro nezmara.Odpověď:  odpověď je: pučení.  .
+6.  Mezi medúzovce patří: A. sasanka koňskáB. medúzka sladkovodníC. větevník mozkovýD. talířovka ušatá  odpověď je: talířovka ušatá.  .
+7.  Jak označujeme buňky, ze kterých vznikají žahavé buňky.Odpověď:  odpověď je: vmezeřené.  .
+8.  Jak označujeme typ nervové soustavy žahavců.Odpověď:  odpověď je: rozptýlená.  .
+9.  Jak označujeme malé medúzky, které vznikly strobilací.Odpověď:  odpověď je: efyra.
+10.  Tělo žahavců je: A. bilaterálně souměrnéB. paprsčitě souměrné C. dvoustranně souměrnéD. nesouměrné odpověď je: paprsčitě souměrné.  .
+11.  Kosterní útvary korálnatců jsou z uhličitanu vápenatého nebo koralinu. Pravda Nepravda odpověď je 'Pravda'  .
+12.  Mezi korálnatce nepatří: A. houbovník obecnýB. sasanka koňskáC. větevník mozkovýD. měchýřovka vznášivá  odpověď je: měchýřovka vznášivá.  .
+13.  Ropália jsou: A. žahavé buňkyB. seskupení smyslových orgánů C. rozmnožovací orgányD. trávicí buňky odpověď je: seskupení smyslových orgánů.  .
+14.  Pro stádium polypa je typické pohlavní rozmnožování. PravdaNepravda  odpověď je 'Nepravda'  .
+15.  Pro stádium medúzy je typické pohlavní rozmnožování. Pravda Nepravda odpověď je 'Pravda'  .
+16.  Silná vrstva mezogley je typická pro stádium polypa. PravdaNepravda  odpověď je 'Nepravda'  .
+17.  Larva žahavců je: A. efyraB. miracidiumC. planula D. amfiblastula odpověď je: planula.  .
+18.  Jak označujeme nepohlavní rozmnožování ve stádiu polypa u medúzovců.Odpověď:  odpověď je: strobilace.  .
+19.  Trávení, které probíhá v dutině láčky označujeme jako intracelulární. PravdaNepravda  odpověď je 'Nepravda'  .
+20.  Nezmaři mají stádium polypa i medúzy. PravdaNepravda  odpověď je 'Nepravda'  .
+21.  Jak označujeme žahavé buňky.Odpověď:  odpověď je: knidoblasty.  .
+22.  Korál červený patří mezi šestičetné korálnatce. PravdaNepravda  odpověď je 'Nepravda'  .
+23.  Sasanky tvoří kosterní útvary z koralinu. PravdaNepravda  odpověď je 'Nepravda'  .
+24.  Medúzom slouží v kolonii trubýšů k pohybu. Pravda Nepravda odpověď je 'Pravda'  .
+25.  Jedinec sloužící k nadnášení kolonie trubýšů je...Odpověď:  odpověď je: pneumatofor.  .
+26.  Jak označujeme svalová vlákna žahavců.Odpověď:  odpověď je: myofibrily.  .
+27.  Jak označujeme střídání pohlavního a nephlavního stádia.Odpověď:  odpověď je: rodozměna.  .
+28.  Korálnatci mají stádium polypa i medúzy. PravdaNepravda  odpověď je 'Nepravda'  .
+29.  Jak označujeme trávicí dutinu žahavců.Odpověď:  odpověď je: láčka.  .
+30. 
