@@ -118,13 +118,13 @@ topIcon.addEventListener('mouseenter', () => {
   } else if (subForm.value.toLowerCase() == 'fyzika') {
     iconTopText.innerText =
       'termodynamika a molekulová fyzika; molární veličiny; vnitřní energie, práce, teplo; struktura a vlastnosti plynu i; pevné látky i; pevné látky  ii; struktura a vlastnosti plynu - jednoduché; změny skupenství; kapaliny; mechanické kmitání - kinematika.; dynamika kmitavého pohybu; mechanické vlnění';
-    iconTopText.style.width = '175px';
-    iconTopText.style.marginTop = '-75px';
+    iconTopText.style.width = '205px';
+    iconTopText.style.marginTop = '-40px';
   } else if (subForm.value.toLowerCase() == 'chemie') {
     iconTopText.innerText =
       'nekovy; p-prvky - kovy; p-prvky - polokovy; s-prvky - kovy alkalických zemin; s-prvky - alkalické kovy; d-prvky - viii.b skupina; d-prvky - i.b a ii.b skupina; analytická chemie; základy organické chemie; názvosloví uhlovodíků; uhlovodíky nasycené; alkeny, alkadieny; alkyny; areny; d-prvky - ostatní; komplexní sloučeniny';
-    iconTopText.style.marginTop = '-75px';
-    iconTopText.style.width = '200px';
+    iconTopText.style.marginTop = '-35px';
+    iconTopText.style.width = '225px';
   } else {
     iconTopText.innerText = '';
   }

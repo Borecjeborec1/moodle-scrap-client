@@ -83,7 +83,6 @@ input:focus {
 
 button {
   font-family: 'Raleway', sans-serif;
-  font-weight: bold;
 
   border-radius: 3px;
   padding: 10px 15px;
@@ -101,6 +100,8 @@ button:active {
   border: 1px solid #000000;
 }
 #scrapBtn {
+  font-weight: bold;
+
   margin-top: 15px;
   margin-left: 14%;
   width: 75px;
@@ -142,9 +143,10 @@ i {
   transition: all 1s ease;
 }
 #iconTopText {
+  font-size: small;
   position: absolute;
-  margin-top: -50px;
-  margin-left: 400px;
+  margin-top: -30px;
+  margin-left: 385px;
   width: 150px;
   color: #aaaaaa;
   opacity: 0;
