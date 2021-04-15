@@ -5,6 +5,7 @@ const scrapBtn = document.getElementById('scrapBtn');
 const svg = document.getElementById('svg');
 const resMsg = document.getElementById('resMsg');
 const downloadBtn = document.getElementById('downloadBtn');
+const openBtn = document.getElementById('openBtn');
 
 form.addEventListener('submit', (e) => {
   e.preventDefault();
@@ -21,6 +22,12 @@ form.addEventListener('submit', (e) => {
       topForm.value = '';
     }, 5000);
   }
+});
+
+downloadBtn.addEventListener('click', () => {
+  resMsg.innerText = 'If download did not started, click here';
+  downloadBtn.style.display = 'none';
+  openBtn.style.display = 'block';
 });
 
 async function postNotes(predmet, tema) {
