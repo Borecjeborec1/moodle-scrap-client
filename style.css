@@ -1,0 +1,234 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#page {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background: #303030;
+  overflow: hidden;
+}
+
+#rbRect {
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  right: -100px;
+  bottom: -100px;
+
+  background: #c4c4c4;
+  transform: rotate(-31.94deg);
+}
+
+#ltRect {
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  left: -100px;
+  top: -100px;
+  background: #c4c4c4;
+  transform: rotate(-31.94deg);
+  transition: all 1s ease;
+}
+#content {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  margin-top: 4%;
+}
+
+#heading {
+  font-size: 72px;
+  line-height: 84px;
+  color: #cccccc;
+}
+
+#copyright {
+  width: 139px;
+  height: 23px;
+
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #dddddd;
+  margin-bottom: 4%;
+}
+#form {
+  width: 350px;
+}
+input {
+  margin: 10px 0 10px 0;
+  border: 0;
+  width: 350px;
+  height: 45px;
+  background: #c4c4c4;
+  padding: 10px;
+  outline: inherit;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+}
+input:focus {
+  background: #dddddd;
+}
+
+button {
+  border-radius: 3px;
+  padding: 10px 15px;
+  width: 100px;
+  float: right;
+  border: 0;
+  background: #c4c4c4;
+  color: #000000;
+  outline: inherit;
+  transition: all 0.2s ease;
+}
+button:active {
+  background: #dddddd;
+  border: 1px solid #000000;
+}
+#scrapBtn {
+  margin-top: 15px;
+  margin-left: 14%;
+  width: 75px;
+  cursor: pointer;
+}
+#resMsg {
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 50px;
+  color: #c4c4c4;
+}
+#downloadBtn {
+  margin-top: 20px;
+  cursor: pointer;
+}
+.displayNone {
+  display: none;
+}
+
+svg.tea {
+  --secondary: #c4c4c4;
+}
+
+svg.tea #steamL {
+  stroke-dasharray: 13;
+  stroke-dashoffset: 13;
+  animation: steamLarge 2s infinite;
+}
+svg.tea #steamR {
+  stroke-dasharray: 9;
+  stroke-dashoffset: 9;
+  animation: steamSmall 2s infinite;
+}
+
+@-moz-keyframes steamLarge {
+  0% {
+    stroke-dashoffset: 13;
+    opacity: 1;
+  }
+  100% {
+    stroke-dashoffset: 39;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes steamLarge {
+  0% {
+    stroke-dashoffset: 13;
+    opacity: 1;
+  }
+  100% {
+    stroke-dashoffset: 39;
+    opacity: 0;
+  }
+}
+@-o-keyframes steamLarge {
+  0% {
+    stroke-dashoffset: 13;
+    opacity: 1;
+  }
+  100% {
+    stroke-dashoffset: 39;
+    opacity: 0;
+  }
+}
+@keyframes steamLarge {
+  0% {
+    stroke-dashoffset: 13;
+    opacity: 1;
+  }
+  100% {
+    stroke-dashoffset: 39;
+    opacity: 0;
+  }
+}
+@-moz-keyframes steamSmall {
+  10% {
+    stroke-dashoffset: 9;
+    opacity: 1;
+  }
+  80% {
+    stroke-dashoffset: 27;
+    opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 27;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes steamSmall {
+  10% {
+    stroke-dashoffset: 9;
+    opacity: 1;
+  }
+  80% {
+    stroke-dashoffset: 27;
+    opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 27;
+    opacity: 0;
+  }
+}
+@-o-keyframes steamSmall {
+  10% {
+    stroke-dashoffset: 9;
+    opacity: 1;
+  }
+  80% {
+    stroke-dashoffset: 27;
+    opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 27;
+    opacity: 0;
+  }
+}
+@keyframes steamSmall {
+  10% {
+    stroke-dashoffset: 9;
+    opacity: 1;
+  }
+  80% {
+    stroke-dashoffset: 27;
+    opacity: 0;
+  }
+  100% {
+    stroke-dashoffset: 27;
+    opacity: 0;
+  }
+}
+
+@media screen and (max-width: 1030px) {
+  #ltRect {
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 855px) {
+  #ltRect {
+    left: -200px;
+    top: -200px;
+  }
+}
