@@ -1,30 +1,31 @@
-Na obrázku je fázový diagram. Přiřaď správné odpovědi:v jakém skupenství je látka, je-li její stav zobrazen bodem DOdpověď 1 v jakém skupenství je látka, je-li její stav zobrazen bodem COdpověď 2 v jakém skupenství je látka, je-li její stav zobrazen bodem AOdpověď 3 
-Na čem závisí teplota tání?Vyberte jednu nebo více možností:a. na objemu látkyb. na vnějším tlaku c. na hmotnosti látkyd. na druhu látky 
-Jak závisí teplota varu na tlaku?a. s rostoucím tlakem se teplota varu zvyšuje b. s rostoucím tlakem se teplota varu snižujec. nezávísí
-Denis Papin vynalezl tlakový hrnec roku 1679. Jeho princip je založený na tom, že se teplota varu s rostoucím tlakem:a. zvyšuje b. snižujec. dosáhne rychleji
-jakou změnu skupenství představuje přechod látky ze stavu zobrazeného bodem B do stavu zobrazeného bodem Ca. vypařováníb. tání c. tuhnutíd. kapalnění
-Jakou změnu skupenství představuje přechod látky ze stavu zobrazeného bodem D do stavu zobrazeného bodem Ca. sublimaceb. kondenzace c. desublimaced. vypařování
-Urči z grafu hodnotu teploty tání dané látkya. 50b. 100c. 150 d. 175
-Urči z grafu velikost skupenského tepla tání dané látky v kJa. 300b. 100c. 250d. 150 
-Jednotkou skupenského tepla tání je:a. J/kgb. J/Kc. J 
-Při tání tělěsoa. příjímá teplo z okolí b. nepříjímá ani neodevzdává teploc. odevzdává teplo do okolí
-Tlak syté páry:a. na teplotě nezávisíb. se zvětšuje se zvyšováním teploty a nezávisí na objemu syté páry c. je přímo úměrný teplotě a objemud. je přímo úměrný teplotě a nepřímo úměrný jejímu objemu
-Kolik ledu roztaje (lt=334 kJ/kg) teploty 00C, vložíme-li jej do vody (c=4,2 kJ/kg.K) o objemu 2l a teplotě 1000C?a. 25 kgb. 0,25 kgc. 1 kgd. 2,5 kg 
-Kolik tepla musíme odebrat 1 l vody (c=4,2 kJ/kg.K) teploty 100C, aby se změnil na led (lt=334 kJ/kg) teploty 00C?a. 292 kJb. 376 kJ c. 2,92 kJd. 37,6 kJ
-Jaké množství tepla je třeba k tomu, aby se 2 kg ledu o teplotě -40C přeměnily na vodu teploty 00C? (cl=2,1 kJ/kgK, lt=334 kJ/kg)a. 658 kJ b. 342 kJc. 658 Jd. 171 kJ
-Na obrázku je znázorněné tání tělesa. Určete měrné skupenské teplo tání látky, jestli že její hmotnost je 0,5 kg.a. 500 kJb. 300 kJ c. 600 kJ
-Vejdeme-li v zimě z venku do teplé místnosti, tak se nám brýle zamlží. O jakou fázovou změnu jde?a. sublimacib. kondenzaci c. desublimacid. vypařování
-Kapalina existuje pouze v plynném stavu, jestli-že překročía. teplotu trojného bodub. teplotu táníc. kritickou teplotu d. teplotu varu
-Na čem závisí měrné skupenské teplo tání látky?a. na teplotě táníb. na hmotnosti látkyc. na druhu látky 
-Skupenské teplo tání závisí:Vyberte jednu nebo více možností:a. na hmotnosti látky b. na teplotě látkyc. na druhu látky 
-Vytváření jinovatky z vodní páry za teplot pod 0 ° Ca. je sublimaceb. je desublimace c. je tuhnutí
-Co má větší hustotu, voda nebo led?a. mají stejnou hustotub. ledc. voda 
-Amorfní látka nemá teplotu táníPravda Nepravda
-Jednotkou měrného skupenského tepla tání je J.kg-1Pravda Nepravda
-V průběhu tání roste teplota tání dané látkyPravdaNepravda 
-Měrné skupenské teplo tání je množství tepla, které musíme dodat látce zahřáté na teplotu tání, aby roztáloPravdaNepravda 
- Sníh taje nejrychleji vlivem deště, protože od dešťových kapek dostává více energie než od vzduchu.Pravda Nepravda
-Měrné skupenské teplo tání je množství tepla, které musíme dodat 1 kg látky zahřáté na teplotu tání, aby roztálaPravda Nepravda
-Měrné skupenské teplo tání je stejné jako měrné skupenské teplo tuhnutí.Pravda Nepravda
-Většina látek při tání zvětšuje svůj objem a tím zmenšuje svoji hustotu.Pravda Nepravda
-Led, při tání zmenšuje svůj objem a tím se zvětšuje hustota vody.Pravda Nepravda
+0.  Na obrázku je fázový diagram. Přiřaď správné odpovědi:v jakém skupenství je látka, je-li její stav zobrazen bodem DOdpověď 1 v jakém skupenství je látka, je-li její stav zobrazen bodem COdpověď 2 v jakém skupenství je látka, je-li její stav zobrazen bodem AOdpověď 3  odpověď je: v jakém skupenství je látka, je-li její stav zobrazen bodem D – plynném, v jakém skupenství je látka, je-li její stav zobrazen bodem C – kapalném, v jakém skupenství je látka, je-li její stav zobrazen bodem A – rovnovážném stavu mezi kapalným, pevným a plynným skupenstvím.  .
+1.  Na čem závisí teplota tání?Vyberte jednu nebo více možností:a. na objemu látkyb. na vnějším tlaku c. na hmotnosti látkyd. na druhu látky  odpověď je: na druhu látky, na vnějším tlaku.  .
+2.  Jak závisí teplota varu na tlaku? a. s rostoucím tlakem se teplota varu zvyšuje b. s rostoucím tlakem se teplota varu snižujec. nezávísí odpověď je: s rostoucím tlakem se teplota varu zvyšuje.  .
+3.  Denis Papin vynalezl tlakový hrnec roku 1679. Jeho princip je založený na tom, že se teplota varu s rostoucím tlakem: a. zvyšuje b. snižujec. dosáhne rychleji odpověď je: zvyšuje.  .
+4.  jakou změnu skupenství představuje přechod látky ze stavu zobrazeného bodem B do stavu zobrazeného bodem C a. vypařováníb. tání c. tuhnutíd. kapalnění odpověď je: tání.  .
+5.  Jakou změnu skupenství představuje přechod látky ze stavu zobrazeného bodem D do stavu zobrazeného bodem C a. sublimaceb. kondenzace c. desublimaced. vypařování odpověď je: kondenzace.  .
+6.  Urči z grafu hodnotu teploty tání dané látky a. 50b. 100c. 150 d. 175 odpověď je: 150.  .
+7.  Urči z grafu velikost skupenského tepla tání dané látky v kJ a. 300b. 100c. 250d. 150  odpověď je: 150.  .
+8.  Jednotkou skupenského tepla tání je: a. J/kgb. J/Kc. J  odpověď je: J.  .
+9.  Při tání tělěso a. příjímá teplo z okolí b. nepříjímá ani neodevzdává teploc. odevzdává teplo do okolí odpověď je: příjímá teplo z okolí.  .
+10.  Tlak syté páry: a. na teplotě nezávisíb. se zvětšuje se zvyšováním teploty a nezávisí na objemu syté páry c. je přímo úměrný teplotě a objemud. je přímo úměrný teplotě a nepřímo úměrný jejímu objemu odpověď je: se zvětšuje se zvyšováním teploty a nezávisí na objemu syté páry.  .
+11.  Kolik ledu roztaje (lt=334 kJ/kg) teploty 00C, vložíme-li jej do vody (c=4,2 kJ/kg.K) o objemu 2l a teplotě 1000C? a. 25 kgb. 0,25 kgc. 1 kgd. 2,5 kg  odpověď je: 2,5 kg.  .
+12.  Kolik tepla musíme odebrat 1 l vody (c=4,2 kJ/kg.K) teploty 100C, aby se změnil na led (lt=334 kJ/kg) teploty 00C? a. 292 kJb. 376 kJ c. 2,92 kJd. 37,6 kJ odpověď je: 376 kJ.  .
+13.  Jaké množství tepla je třeba k tomu, aby se 2 kg ledu o teplotě -40C přeměnily na vodu teploty 00C? (cl=2,1 kJ/kgK, lt=334 kJ/kg) a. 658 kJ b. 342 kJc. 658 Jd. 171 kJ odpověď je: 658 kJ.  .
+14.  Na obrázku je znázorněné tání tělesa. Určete měrné skupenské teplo tání látky, jestli že její hmotnost je 0,5 kg. a. 500 kJb. 300 kJ c. 600 kJ odpověď je: 300 kJ.  .
+15.  Vejdeme-li v zimě z venku do teplé místnosti, tak se nám brýle zamlží. O jakou fázovou změnu jde? a. sublimacib. kondenzaci c. desublimacid. vypařování odpověď je: kondenzaci.  .
+16.  Kapalina existuje pouze v plynném stavu, jestli-že překročí a. teplotu trojného bodub. teplotu táníc. kritickou teplotu d. teplotu varu odpověď je: kritickou teplotu.  .
+17.  Na čem závisí měrné skupenské teplo tání látky? a. na teplotě táníb. na hmotnosti látkyc. na druhu látky  odpověď je: na druhu látky.  .
+18.  Skupenské teplo tání závisí:Vyberte jednu nebo více možností:a. na hmotnosti látky b. na teplotě látkyc. na druhu látky  odpověď je: na hmotnosti látky, na druhu látky.  .
+19.  Vytváření jinovatky z vodní páry za teplot pod 0 ° C a. je sublimaceb. je desublimace c. je tuhnutí odpověď je: je desublimace.  .
+20.  Co má větší hustotu, voda nebo led? a. mají stejnou hustotub. ledc. voda  odpověď je: voda.  .
+21.  Amorfní látka nemá teplotu tání Pravda NepravdaReakce:)Správná odpověď je 'Pravda'  .
+22.  Jednotkou měrného skupenského tepla tání je J.kg-1 Pravda NepravdaReakce:)Správná odpověď je 'Pravda'  .
+23.  V průběhu tání roste teplota tání dané látky PravdaNepravda Reakce:)Správná odpověď je 'Nepravda'  .
+24.  Měrné skupenské teplo tání je množství tepla, které musíme dodat látce zahřáté na teplotu tání, aby roztálo PravdaNepravda Reakce:)Správná odpověď je 'Nepravda'  .
+25.   Sníh taje nejrychleji vlivem deště, protože od dešťových kapek dostává více energie než od vzduchu. Pravda Nepravda odpověď je 'Pravda'  .
+26.  Měrné skupenské teplo tání je množství tepla, které musíme dodat 1 kg látky zahřáté na teplotu tání, aby roztála Pravda NepravdaReakce:)Správná odpověď je 'Pravda'  .
+27.  Měrné skupenské teplo tání je stejné jako měrné skupenské teplo tuhnutí. Pravda Nepravda odpověď je 'Pravda'  .
+28.  Většina látek při tání zvětšuje svůj objem a tím zmenšuje svoji hustotu. Pravda Nepravda odpověď je 'Pravda'  .
+29.  Led, při tání zmenšuje svůj objem a tím se zvětšuje hustota vody. Pravda Nepravda odpověď je 'Pravda'  .
+30. 

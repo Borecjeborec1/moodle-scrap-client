@@ -1,30 +1,31 @@
-Urči počet atomů připadající na jednu elementární buňku v celém krystalu.prostá	Odpověď 1 prostorově centrovaná	Odpověď 2 plošně centrovaná buňka	Odpověď 3 
-Při překročení které meze dojde:k roztržení materiálů	Odpověď 1 k tomu, že přestane přestane platit Hookův zákon	Odpověď 2 k tvárné deformaci	Odpověď 3 
-Urči o jaký druh pevné látky se jednáametyst	Odpověď 1 dřevo	Odpověď 2 křemen	Odpověď 3 parafín	Odpověď 4 hliník	Odpověď 5 sklo	Odpověď 6 
-přiřad správnou odpověď:dovolené napětí je	Odpověď 1 mez pružnosti je	Odpověď 2 mez pevnosti je	Odpověď 3 koeficient bezpečnosti je	Odpověď 4 
- Na orázku je křivka deformace. Urči správné odpověďi:Do meze úměrnostiOdpověď 1 Při překročení meze pevnostiOdpověď 2 Po překročení meze pružnostiOdpověď 3 
-Urči jednotku dané fyzikální veličiny:počáteční délka	Odpověď 1 mez pevnosti	Odpověď 2 deformace	Odpověď 3 relativní prodloužení	Odpověď 4 mez pružnosti	Odpověď 5 normálové napětí	Odpověď 6 Youngův modul pružnosti	Odpověď 7 síla pružnosti	Odpověď 8 koeficient bezpečnosti	Odpověď 9 absolutní prodloužení	Odpověď 10 
-Na obrázku je látka:a. monokrystalická b. polykrystlickác. amorfní
-a. plastická b. elastická
-Bodová porucha na obrázku je:a. vakance b. intersticiální polohac. příměs
-Na obrázku je látka:a. polykrystalickáb. monokrystalickác. amorfní 
-Izotropní vlastnosti jsou vlastnosti, které jsou ve všech směrech:a. stejné b. různé
-Amorfní látky mají uspořádání částic:a. dalekodosahovéb. pravidelnéc. krátkodosahové 
-Určete relativní prodloužení drátu z materiálu o modulu pružnosti 2 × 1011 Pa při normálovém napětí 5 × 109 Pa. Výsledek vyjádřete i v procentech.a. 4%b. 25%c. 2,5% d. 0,4%
-Při měření teplotního součinitele délkové roztažnosti byla použita tyč o délce 0,5 m. Hodnoty prodloužení v závislosti na teplotě jsou znázorněny na obr. Jakou hodnotu má teplotní součinitel délkové roztažnosti tyče?a. 500 000b. 0,000 05c. 0,000 02 d. 200000
-Kolik typů má jednoduchá deromace?a. 5 b. 7c. 4
-Částice v uzlových bodech krystalické mřížky konají pohyba. posuvný, nebo-li translačníb. kmitavý, nebo-li vibrační c. otáčivý, nebo-li rotační
-Těleso o objemu 1 m3 zahřejeme z teploty -100C na 100C. Určete změnu objemu v m3, jestli-že je součinitel délkové teplotní roztažnosti 2.10-5K-1.a. 0,0004b. 0,004c. 0,0012 d. 0,012
-Anizotropní vlastnosti mají látky:Odpověď: 
-Na obrázku je bodová porucha - vakancePravdaNepravda 
- Pavoučí vlákno je sice velmi tenké, ale vzhledem ke svým rozměrům je velmi pevné. Parametry, jaké má pavoučí vlákno, nemají běžně vyráběné materiály (ocel, nylon, ...), a proto je pavoučí vlákno vzorem pro technology zabývající se výrobou pevných lan nebo vlasců.Pravda Nepravda
- Symbol Světové výstavy EXPO 58, která se konala v roce 1958 v Bruselu, se nazývá Atomium a jedná se o značně zvětšený model základní buňky krystalové mřížky železa.Pravda Nepravda
-U grafitu jsou atomy uhlíku vázány kovalentními vazbami do pravidelných šestiúhelníků. Jednotlivé vrstvy pak jsou vázány slabou van der Waalsovou vazbou, což má za následek, že se grafit (tuha) lehce otírá.Pravda Nepravda
-Diamant má kovalentní chemickou vazbu.Pravda Nepravda
-Polykrystalické látky mají anizotropní vlastnosti.PravdaNepravda 
-Amorfní látky nemají teplotu tání.Pravda Nepravda
-Hookův zákon platí do meze úměrnostiPravda Nepravda
-Hookův zákon platí do meze pružnostiPravdaNepravda 
- Na obrázku je deformace smykem.Pravda Nepravda
- Na obrázku je deformace tahem.Pravda Nepravda
- Na obrázku je deformace kroucením.Pravda Nepravda
+0.  Urči počet atomů připadající na jednu elementární buňku v celém krystalu.prostá	Odpověď 1 prostorově centrovaná	Odpověď 2 plošně centrovaná buňka	Odpověď 3  odpověď je: prostá – 1, prostorově centrovaná – 2, plošně centrovaná buňka – 4.  .
+1.  Při překročení které meze dojde:k roztržení materiálů	Odpověď 1 k tomu, že přestane přestane platit Hookův zákon	Odpověď 2 k tvárné deformaci	Odpověď 3  odpověď je: k roztržení materiálů – meze pevnosti, k tomu, že přestane přestane platit Hookův zákon – meze úměrnosti, k tvárné deformaci – meze pružnosti.  .
+2.  Urči o jaký druh pevné látky se jednáametyst	Odpověď 1 dřevo	Odpověď 2 křemen	Odpověď 3 parafín	Odpověď 4 hliník	Odpověď 5 sklo	Odpověď 6  odpověď je: ametyst – monokrystalická, dřevo – amorfní, křemen – monokrystalická, parafín – amorfní, hliník – polykrystalická látka, sklo – amorfní.  .
+3.  přiřad správnou odpověď:dovolené napětí je	Odpověď 1 mez pružnosti je	Odpověď 2 mez pevnosti je	Odpověď 3 koeficient bezpečnosti je	Odpověď 4  odpověď je: dovolené napětí je – mnohem menší než mez pevnosti, mez pružnosti je – větší než mez úměrnosti, mez pevnosti je – větší než dovolené napětí, koeficient bezpečnosti je – číslo větší než 1.  .   0,90/1,00.
+4.   Na orázku je křivka deformace. Urči správné odpověďi:Do meze úměrnostiOdpověď 1 Při překročení meze pevnostiOdpověď 2 Po překročení meze pružnostiOdpověď 3  odpověď je: Do meze úměrnosti – platí Hookův zákon, Při překročení meze pevnosti – se roztrhne, Po překročení meze pružnosti – je těleso trvale deformováno.  .
+5.  Urči jednotku dané fyzikální veličiny:počáteční délka	Odpověď 1 mez pevnosti	Odpověď 2 deformace	Odpověď 3 relativní prodloužení	Odpověď 4 mez pružnosti	Odpověď 5 normálové napětí	Odpověď 6 Youngův modul pružnosti	Odpověď 7 síla pružnosti	Odpověď 8 koeficient bezpečnosti	Odpověď 9 absolutní prodloužení	Odpověď 10  odpověď je: počáteční délka – m, mez pevnosti – Pa, deformace – nemá jednotku, není to fyzikální veličina, relativní prodloužení – 1, mez pružnosti – Pa, normálové napětí – Pa, Youngův modul pružnosti – Pa, síla pružnosti – N, koeficient bezpečnosti – 1, absolutní prodloužení – m.  .
+6.  Na obrázku je látka: a. monokrystalická b. polykrystlickác. amorfní odpověď je: monokrystalická.  .
+7.   a. plastická b. elastická odpověď je: plastická.  .
+8.  Bodová porucha na obrázku je: a. vakance b. intersticiální polohac. příměs odpověď je: vakance.  .
+9.  Na obrázku je látka: a. polykrystalickáb. monokrystalickác. amorfní  odpověď je: amorfní.  .
+10.  Izotropní vlastnosti jsou vlastnosti, které jsou ve všech směrech: a. stejné b. různé odpověď je: stejné.  .
+11.  Amorfní látky mají uspořádání částic: a. dalekodosahovéb. pravidelnéc. krátkodosahové  odpověď je: krátkodosahové.  .
+12.  Určete relativní prodloužení drátu z materiálu o modulu pružnosti 2 × 1011 Pa při normálovém napětí 5 × 109 Pa. Výsledek vyjádřete i v procentech. a. 4%b. 25%c. 2,5% d. 0,4%ReakceUrčete relativní prodloužení drátu z materiálu o modulu pružnosti 2 × 1011 Pa při normálovém napětí 5 × 109 Pa. Výsledek vyjádřete i v procentech.Správná odpověď je: 2,5%.  .
+13.  Při měření teplotního součinitele délkové roztažnosti byla použita tyč o délce 0,5 m. Hodnoty prodloužení v závislosti na teplotě jsou znázorněny na obr. Jakou hodnotu má teplotní součinitel délkové roztažnosti tyče? a. 500 000b. 0,000 05c. 0,000 02 d. 200000 odpověď je: 0,000 02.  .
+14.  Kolik typů má jednoduchá deromace? a. 5 b. 7c. 4 odpověď je: 5.  .
+15.  Částice v uzlových bodech krystalické mřížky konají pohyb a. posuvný, nebo-li translačníb. kmitavý, nebo-li vibrační c. otáčivý, nebo-li rotační odpověď je: kmitavý, nebo-li vibrační.  .
+16.  Těleso o objemu 1 m3 zahřejeme z teploty -100C na 100C. Určete změnu objemu v m3, jestli-že je součinitel délkové teplotní roztažnosti 2.10-5K-1. a. 0,0004b. 0,004c. 0,0012 d. 0,012 odpověď je: 0,0012.  .   0,80/1,00.
+17.  Anizotropní vlastnosti mají látky:Odpověď:  odpověď je: monokrystalické.  .
+18.  Na obrázku je bodová porucha - vakance PravdaNepravda  odpověď je 'Nepravda'  .
+19.   Pavoučí vlákno je sice velmi tenké, ale vzhledem ke svým rozměrům je velmi pevné. Parametry, jaké má pavoučí vlákno, nemají běžně vyráběné materiály (ocel, nylon, ...), a proto je pavoučí vlákno vzorem pro technology zabývající se výrobou pevných lan nebo vlasců. Pravda Nepravda odpověď je 'Pravda'  .
+20.   Symbol Světové výstavy EXPO 58, která se konala v roce 1958 v Bruselu, se nazývá Atomium a jedná se o značně zvětšený model základní buňky krystalové mřížky železa. Pravda Nepravda odpověď je 'Pravda'  .
+21.  U grafitu jsou atomy uhlíku vázány kovalentními vazbami do pravidelných šestiúhelníků. Jednotlivé vrstvy pak jsou vázány slabou van der Waalsovou vazbou, což má za následek, že se grafit (tuha) lehce otírá. Pravda Nepravda odpověď je 'Pravda'  .   0,00/1,00.
+22.  Diamant má kovalentní chemickou vazbu. Pravda Nepravda odpověď je 'Pravda'  .
+23.  Polykrystalické látky mají anizotropní vlastnosti. PravdaNepravda  odpověď je 'Nepravda'  .   0,00/1,00.
+24.  Amorfní látky nemají teplotu tání. Pravda Nepravda odpověď je 'Pravda'  .   0,00/1,00.
+25.  Hookův zákon platí do meze úměrnosti Pravda Nepravda odpověď je 'Pravda'  .
+26.  Hookův zákon platí do meze pružnosti PravdaNepravda  odpověď je 'Nepravda'  .
+27.   Na obrázku je deformace smykem. Pravda Nepravda odpověď je 'Pravda'  .
+28.   Na obrázku je deformace tahem. Pravda Nepravda odpověď je 'Pravda'  .
+29.   Na obrázku je deformace kroucením. Pravda Nepravda odpověď je 'Pravda'  .
+30. 

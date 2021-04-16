@@ -1,30 +1,31 @@
-ΔU=Q+WPřiřaď správné slovní vyjádření daných fyzikálních veličin ve vzorci:QOdpověď 1 ΔUOdpověď 2 WOdpověď 3 
-V pV diagramu je izobara:a. hyperbolab. přímka rovnoběžná s osou pc. parabolad. přímka procházející počátkeme. přímka rovnoběžná s osou V 
-Vnitřní energie ideálního plynu je dána:a. celkovou kinetickou a potenciální energií částicb. celkovou kinetickou energií částic c. celkovou potenciální energií částic
-Rychlost molekul ideálního plynu závisí:Vyberte jednu nebo více možností:a. na teplotě plynu b. na objemu plynuc. na hmotnosti plynud. na hmotnosti molekuly 
-Střední kinetická energie 1 molekuly plynu závisí:a. pouze na teplotě plynu b. pouze na hmotnosti molekulyc. na teplotě a hmotnosti molekul
-Jednotka Boltzmannovy konstatnty je:a. J.sb. J.Kc. J/K d. J.kg.K
-Jsou dány dva různé plyny (H2 ,N2) o stejné teplotě. Které tvrzení je pravdivé?a. molekuly obou plynů mají stejnou střední kinetickou energií b. molekuly obou plynů mají stejnou střední kinetickou energií a kvadratickou rychlostc. molekuly obou plynů mají stejnou kvadratickou rychlost
-Jaký je poměr rychlostí molekul O2 a H2 při stejné teplotě:a. 1/32b. 1/16 c. 8d. 1/8e. 16
-pV=nRTKteré symboly v rovnici jsou stavovými veličinami?a. p,V,n,T b. p,V,R,T,nc. p,V,Td. p,V,R,T
-pV=NkTKteré symboly ve stavové rovnici jsou stavovými veličinami?Vyberte jednu nebo více možností:a. p,V,T b. p,V,N,T c. p,V,N,k,Td. p,V,k,T,
-Vyberte dvojici, ve které jsou obě uvedené veličiny veličinami stavovými:Vyberte jednu nebo více možností:a. práce, teplob. práce, objemc. teplota, tlak d. teplota, teploe. teplota, objem 
-Pro dané látkové množství ideálního plynu zůstává při jakékoliv vratné změně stavu konstantní výraz:a. pV/T b. pVnc. VT/pd. pV/Re. pVT
-Jaký tlak má CO2 o hmotnosti 88g, který je v nádobě o objemu 6l při teplotě 270C? (R=8,3 J.K-1.mol-1,Ar (C)= 12, Ar (O) = 16)a. 830 kPab. 830 Pa c. 0,83 Pad. 16 600 Pae. 16,6 Pa
-Dodáváme-li ideálnímu plynu stálého objemu teplo, pak jeho vnitřní energie:a. se neměníb. roste c. klesá
-Ochlazujeme-li ideální plyn daného objemu, pak jeho vnitřní energie:a. rosteb. klesá c. se nemění
-Na obrázku je schéma zařízení, kterým byla změřena rychlost molekul plynu. Jak se jmenoval fyzik, který takto změřil rychlost molekul?a. Boltzmannb. Maxwelc. Lammert 
-Na obrázku je:a. izochorab. izobarac. izoterma 
-Při izotermické ději se vnitřní energie plynu:a. zvyšujeb. nemění c. snižujed. mění
-U kterého děje se práce nekoná?a. izobarickýb. izotermickýc. izochorický 
-Je-li teplota konstatní jde o jednoduchý děj:Odpověď: 
-Práce se nekoná při jednoduchém ději:Odpověď: 
-Ideální plyn je dokonale nestlačitelný a bez vnitřního tření.PravdaNepravda 
-Práce je stavová veličinaPravdaNepravda 
-Teplo není stavová veličinaPravda Nepravda
-ΔU=Q+WTato rovnice je matematickým výjádřením 1. termodynamického zákonaPravda Nepravda
-Nejpravděpodobnější rychlost je rychlost, se kterou se pohybuje největší počet molekulPravda Nepravda
-Práce plynu je konána jen na úkor vnitřní energie plynu při adiabatickém ději.Pravda Nepravda
-Při izotermickém ději se nekoná práce.PravdaNepravda 
-Při adiabatickém ději nedochází k tepelné výměně.Pravda Nepravda
-Teplo přijaté při izobarickém ději se rovná součtu přírůstku jeho vnitřní energie a práce, kterou plyn vykoná.Pravda Nepravda
+0.  ΔU=Q+WPřiřaď správné slovní vyjádření daných fyzikálních veličin ve vzorci:QOdpověď 1 ΔUOdpověď 2 WOdpověď 3  odpověď je: Q – Teplo, které soustava příjme od okolí, ΔU – přírůstek vnitřní energie, W – Práce, kterou konají vnějsí síly.  .
+1.  V pV diagramu je izobara: a. hyperbolab. přímka rovnoběžná s osou pc. parabolad. přímka procházející počátkeme. přímka rovnoběžná s osou V  odpověď je: přímka rovnoběžná s osou V.  .
+2.  Vnitřní energie ideálního plynu je dána: a. celkovou kinetickou a potenciální energií částicb. celkovou kinetickou energií částic c. celkovou potenciální energií částic odpověď je: celkovou kinetickou energií částic.  .
+3.  Rychlost molekul ideálního plynu závisí:Vyberte jednu nebo více možností:a. na teplotě plynu b. na objemu plynuc. na hmotnosti plynud. na hmotnosti molekuly  odpověď je: na hmotnosti molekuly, na teplotě plynu.  .
+4.  Střední kinetická energie 1 molekuly plynu závisí: a. pouze na teplotě plynu b. pouze na hmotnosti molekulyc. na teplotě a hmotnosti molekul odpověď je: pouze na teplotě plynu.  .
+5.  Jednotka Boltzmannovy konstatnty je: a. J.sb. J.Kc. J/K d. J.kg.K odpověď je: J/K.  .
+6.  Jsou dány dva různé plyny (H2 ,N2) o stejné teplotě. Které tvrzení je pravdivé? a. molekuly obou plynů mají stejnou střední kinetickou energií b. molekuly obou plynů mají stejnou střední kinetickou energií a kvadratickou rychlostc. molekuly obou plynů mají stejnou kvadratickou rychlost odpověď je: molekuly obou plynů mají stejnou střední kinetickou energií.  .
+7.  Jaký je poměr rychlostí molekul O2 a H2 při stejné teplotě: a. 1/32b. 1/16 c. 8d. 1/8e. 16 odpověď je: 1/16.  .
+8.  pV=nRTKteré symboly v rovnici jsou stavovými veličinami? a. p,V,n,T b. p,V,R,T,nc. p,V,Td. p,V,R,T odpověď je: p,V,n,T.  .
+9.  pV=NkTKteré symboly ve stavové rovnici jsou stavovými veličinami?Vyberte jednu nebo více možností:a. p,V,T b. p,V,N,T c. p,V,N,k,Td. p,V,k,T, odpověď je: p,V,N,T, p,V,T.  .
+10.  Vyberte dvojici, ve které jsou obě uvedené veličiny veličinami stavovými:Vyberte jednu nebo více možností:a. práce, teplob. práce, objemc. teplota, tlak d. teplota, teploe. teplota, objem  odpověď je: teplota, objem, teplota, tlak.  .
+11.  Pro dané látkové množství ideálního plynu zůstává při jakékoliv vratné změně stavu konstantní výraz: a. pV/T b. pVnc. VT/pd. pV/Re. pVT odpověď je: pV/T.  .
+12.  Jaký tlak má CO2 o hmotnosti 88g, který je v nádobě o objemu 6l při teplotě 270C? (R=8,3 J.K-1.mol-1,Ar (C)= 12, Ar (O) = 16) a. 830 kPab. 830 Pa c. 0,83 Pad. 16 600 Pae. 16,6 Pa odpověď je: 830 Pa.  .
+13.  Dodáváme-li ideálnímu plynu stálého objemu teplo, pak jeho vnitřní energie: a. se neměníb. roste c. klesá odpověď je: roste.  .
+14.  Ochlazujeme-li ideální plyn daného objemu, pak jeho vnitřní energie: a. rosteb. klesá c. se nemění odpověď je: klesá.  .
+15.  Na obrázku je schéma zařízení, kterým byla změřena rychlost molekul plynu. Jak se jmenoval fyzik, který takto změřil rychlost molekul? a. Boltzmannb. Maxwelc. Lammert  odpověď je: Lammert.  .
+16.  Na obrázku je: a. izochorab. izobarac. izoterma  odpověď je: izoterma.  .
+17.  Při izotermické ději se vnitřní energie plynu: a. zvyšujeb. nemění c. snižujed. měníReakcePři izotermické ději se vnitřní energie plynu:Správná odpověď je: nemění.  .
+18.  U kterého děje se práce nekoná? a. izobarickýb. izotermickýc. izochorický ReakceNa obrázku je děj:Správná odpověď je: izochorický.  .
+19.  Je-li teplota konstatní jde o jednoduchý děj:Odpověď: ReakceJe-li teplota konstatní jde o jednoduchý děj:Správná odpověď je: izotermický.  .
+20.  Práce se nekoná při jednoduchém ději:Odpověď: ReakcePráce se nekoná při jednoduchém ději:Správná odpověď je: izochorickém.  .
+21.  Ideální plyn je dokonale nestlačitelný a bez vnitřního tření. PravdaNepravda Reakce:)Správná odpověď je 'Nepravda'  .
+22.  Práce je stavová veličina PravdaNepravda Reakce:)Správná odpověď je 'Nepravda'  .
+23.  Teplo není stavová veličina Pravda NepravdaReakce:)Správná odpověď je 'Pravda'  .
+24.  ΔU=Q+WTato rovnice je matematickým výjádřením 1. termodynamického zákona Pravda NepravdaReakce:)Správná odpověď je 'Pravda'  .
+25.  Nejpravděpodobnější rychlost je rychlost, se kterou se pohybuje největší počet molekul Pravda NepravdaReakce:)Správná odpověď je 'Pravda'  .
+26.  Práce plynu je konána jen na úkor vnitřní energie plynu při adiabatickém ději. Pravda NepravdaReakcePráce plynu je konána jen na úkor vnitřní energie plynu při adiabatickém ději.Správná odpověď je 'Pravda'  .
+27.  Při izotermickém ději se nekoná práce. PravdaNepravda ReakcePři izotermickém ději se nakoná práce.Správná odpověď je 'Nepravda'  .
+28.  Při adiabatickém ději nedochází k tepelné výměně. Pravda Nepravda odpověď je 'Pravda'  .
+29.  Teplo přijaté při izobarickém ději se rovná součtu přírůstku jeho vnitřní energie a práce, kterou plyn vykoná. Pravda Nepravda odpověď je 'Pravda'  .
+30. 
