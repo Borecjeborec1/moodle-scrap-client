@@ -103,15 +103,14 @@ form.addEventListener('submit', (e) => {
     }, 3000);
   }
 });
+let counter1 = 0;
+let counter2 = 0;
+subIcon.addEventListener('click', () => {
+  counter1++;
+  counter1 % 2 == 0 ? (iconSubText.style.opacity = 1) : (iconSubText.style.opacity = 0);
+});
 
-subIcon.addEventListener('mouseenter', () => {
-  iconSubText.style.opacity = 1;
-});
-subIcon.addEventListener('mouseleave', () => {
-  iconSubText.style.opacity = 0;
-});
-topIcon.addEventListener('mouseenter', () => {
-  iconTopText.style.opacity = 1;
+topIcon.addEventListener('click', () => {
   if (subForm.value.toLowerCase() == 'biologie') {
     iconTopText.innerText =
       'prvoci; houbovci; žahavci; ryby; obojživelníci; plazi; ptáci; savci; ploštěnci a hlísti; měkkýši; kroužkovci; členovci - trojlaločnatci, klepítkatci, žabernatí; vzdušnicovci; paryby';
@@ -128,10 +127,10 @@ topIcon.addEventListener('mouseenter', () => {
   } else {
     iconTopText.innerText = '';
   }
+  counter2++;
+  counter2 % 2 == 0 ? (iconTopText.style.opacity = 1) : (iconTopText.style.opacity = 0);
 });
-topIcon.addEventListener('mouseleave', () => {
-  iconTopText.style.opacity = 0;
-});
+
 /*
 async function postNotes(predmet, tema) {
   await fetch('https://moodle-scraper.herokuapp.com/api/create', {
