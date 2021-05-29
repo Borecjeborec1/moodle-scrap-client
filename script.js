@@ -103,8 +103,8 @@ form.addEventListener('submit', (e) => {
     }, 3000);
   }
 });
-let counter1 = 0;
-let counter2 = 0;
+let counter1 = 1;
+let counter2 = 1;
 subIcon.addEventListener('click', () => {
   counter1++;
   counter1 % 2 == 0 ? (iconSubText.style.opacity = 1) : (iconSubText.style.opacity = 0);
