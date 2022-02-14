@@ -265,6 +265,12 @@ svg.tea #steamR {
   }
 }
 
+@media screen and (min-width: 1530px) {
+  #copyright {
+    right: 4%;
+  }
+}
+
 @media screen and (max-width: 1030px) {
   #ltRect {
     width: 40%;
@@ -275,5 +281,10 @@ svg.tea #steamR {
   #ltRect {
     left: -200px;
     top: -200px;
+  }
+}
+@media screen and (max-width: 455px) {
+  #rbRect{
+    width: 90%;
   }
 }
